@@ -1,15 +1,14 @@
-# Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
-
 format: jb-book
 root: cover
 parts:
   - caption: Foreword
     chapters:
     - file: chapters/foreword/foreword.md
-    # - file: chapters/preface/install.md
   
-  - caption: Rest
+  - caption: Introduction
+    numbered: True
     chapters:
-    - file: markdown
-    - file: mymarkdownfile
+    - file: chapters/introduction/whatisswe
+    - file: chapters/introduction/agoodscientist
+    - file: chapters/introduction/buildingblocks

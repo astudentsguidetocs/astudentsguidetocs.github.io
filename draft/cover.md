@@ -1,1 +1,2 @@
-# hi this is the cover
+# Succeeding In CS
+

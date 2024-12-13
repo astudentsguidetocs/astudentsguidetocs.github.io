@@ -1,14 +1,8 @@
-# Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Succeeding in CS
 author: Ethan Richards
 logo: logo.png
-
-# # Force re-execution of notebooks on each build.
-# # See https://jupyterbook.org/content/execute.html
-# execute:
-#   execute_notebooks: force
 
 # Define the name of the latex output file for PDF builds
 latex:
