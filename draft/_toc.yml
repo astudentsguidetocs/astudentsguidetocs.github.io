@@ -1,0 +1,15 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: cover
+parts:
+  - caption: Foreword
+    chapters:
+    - file: chapters/foreword/foreword.md
+    # - file: chapters/preface/install.md
+  
+  - caption: Rest
+    chapters:
+    - file: markdown
+    - file: mymarkdownfile
