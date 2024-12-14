@@ -20,7 +20,7 @@ for about 3 years. I also ran the [Mines High School Programming Competition](ht
 for two years.
 
 I'm not here to talk about companies (go stalk my LinkedIn if you care), but I've
-had 1.5-ish internships (one for my dad's company, make your own call on that one), with
+had one internship (and another for my dad's company, if you want to count that), with
 another lined up for Summer '25. Also, I don't like mentioning this for a lot of reasons 
 (some of which I'll talk about later!), but I started programming when I was 12. 
 Obviously, this still does not make me an expert of all things software-engineering, 

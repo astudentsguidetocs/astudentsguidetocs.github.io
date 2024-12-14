@@ -11,7 +11,9 @@ Computer science, to me, is the blend of computational theory, practical softwar
 and problem solving. Computer science is as much of an art as it is a science; the science comes from the
 concrete theory, mathematics, etc., whereas the art comes from the people and the problem solving.
 
-There's no precise formula, proof, or scary AI replacement for problem solving (thank goodness, or I would be out of a job) nor is there one for working with real people and real teams; nor is there one for making good decisions [^ref].
+There's no precise formula, mathematical proof, or scary AI replacement for problem solving (thank goodness, or I 
+would be out of a job) nor is there one for working with real people and real teams; nor is there one for making good 
+decisions [^ref].
 
 ## What is software engineering?
 
@@ -36,8 +38,9 @@ better software engineer, which is the main job outcome [^ref2].
 ## What *isn't* software engineering?
 
 I might be too much of an idealist, but I don't think software engineering is about the paycheck.
-I'm always pretty grossed out and disappointed by all of those people on LinkedIn looking at [levels.fyi](https://www.levels.fyi/?compare=Google,Lockheed%20Martin,DISH%20Network&track=Software%20Engineer) comparisons of which
-company is going to give them $900k a year and work them into the ground; or the relatively newfound [ghost software engineers](https://www.businessinsider.com/tech-companies-ghost-engineers-stanford-underperformers-coding-2024-11), 
+I'm always pretty grossed out and disappointed by all of those people on LinkedIn looking at 
+[levels.fyi](https://www.levels.fyi) comparisons of which company is going to give them $900k a
+year and work them into the ground; or the relatively newfound ["ghost" software engineers](https://www.businessinsider.com/tech-companies-ghost-engineers-stanford-underperformers-coding-2024-11), 
 who work multiple remote jobs and get paid more for less [^ref3].
 
 Yes, the paycheck is nice. Yes, it can positively change your quality of life. But if you're doing 
