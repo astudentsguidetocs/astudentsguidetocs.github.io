@@ -1,4 +1,4 @@
-# What is Computer Science?
+# What is computer science?
 
 Computer science, as I learned it in my CS1 course, is "the study of algorithms."
 

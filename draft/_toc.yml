@@ -10,5 +10,5 @@ parts:
     numbered: True
     chapters:
     - file: chapters/introduction/whatisswe
-    - file: chapters/introduction/agoodscientist
     - file: chapters/introduction/buildingblocks
+    - file: chapters/introduction/agoodscientist

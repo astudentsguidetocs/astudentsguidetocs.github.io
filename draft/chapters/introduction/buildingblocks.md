@@ -60,4 +60,4 @@ and (hopefully) asking a coworker or friend, hop on over to the internet.
 [^ref2]: I have a keyboard with about a hundred ducks over all of the keycaps. Yes, really.
 
 [^ref3]: Especially not a Mac, but I am always encouraging Mac over Windows, especially because you
-get that builtin unix terminal so you don't have to deal with PowerShell shenanigans.
+get that builtin UNIX terminal so you don't have to deal with PowerShell shenanigans.
