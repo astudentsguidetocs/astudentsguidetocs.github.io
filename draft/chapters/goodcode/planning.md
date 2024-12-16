@@ -20,11 +20,13 @@ guilty of not planning up front either.)
 
 But I've noticed this same quality in a lot of high-functioning professors, PhD students,
 engineers, and more. They're *always* drawing things out and trying to understand things
-in their head.
+in their head. You don't have to be a good artist to do this; the best sketches
+come in the form of scratchy, messy, incoherent writings on whatever napkin or
+paper is nearby.
 
-(I certainly hope you're *drawing it out* if you're in the realm of
+Sidenote: I certainly hope you're *drawing it out* if you're in the realm of
 frontend/UI/UX design; pop open Figma or just go "old fashioned" with
-some pen and paper.)
+some pen and paper.
 
 ## Commenting
 
