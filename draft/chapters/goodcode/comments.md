@@ -17,7 +17,7 @@ you should be writing the most glorious code that does not need commenting.
 
 Further, at one of my internships, my boss was actually adamant that
 we shouldn't be commenting code (to my coworkers' delight!) and **definitely**
-not writing any documentation; again with the idea that the code itself should suffice.
+not writing any documentation; again with the idea that the code itself should suffice [^ref1].
 
 However, school harps on you repeatedly to comment your code. From your
 first CS class to your software engineering course, you're expected to
@@ -28,7 +28,7 @@ What's the deal with commenting?
 ## It's a balance
 
 I greatly respect my old boss and also that guy in the interview, but
-I would politely disagree with them [^ref1]. Like all things in life,
+I would politely disagree with them. Like all things in life,
 it's a balance!
 
 Yes, I think the popular and rising argument that the code should 
