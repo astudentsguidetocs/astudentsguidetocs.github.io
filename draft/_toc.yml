@@ -12,3 +12,10 @@ parts:
     - file: chapters/introduction/whatisswe
     - file: chapters/introduction/buildingblocks
     - file: chapters/introduction/agoodscientist
+
+  - caption: Good Code
+    chapters:
+    - file: chapters/goodcode/planning
+    - file: chapters/goodcode/cleancode
+    - file: chapters/goodcode/comments
+    - file: chapters/goodcode/complexity
