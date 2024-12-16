@@ -7,7 +7,6 @@ parts:
     - file: chapters/foreword/foreword.md
   
   - caption: Introduction
-    numbered: True
     chapters:
     - file: chapters/introduction/whatisswe
     - file: chapters/introduction/buildingblocks
@@ -16,6 +15,6 @@ parts:
   - caption: Good Code
     chapters:
     - file: chapters/goodcode/planning
-    - file: chapters/goodcode/cleancode
     - file: chapters/goodcode/comments
+    - file: chapters/goodcode/cleancode
     - file: chapters/goodcode/complexity
