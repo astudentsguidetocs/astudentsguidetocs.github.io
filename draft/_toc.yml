@@ -9,6 +9,7 @@ parts:
   - caption: Introduction
     chapters:
     - file: chapters/introduction/whatisswe
+    - file: chapters/introduction/theindustry
     - file: chapters/introduction/buildingblocks
     - file: chapters/introduction/agoodscientist
 
@@ -16,5 +17,9 @@ parts:
     chapters:
     - file: chapters/goodcode/planning
     - file: chapters/goodcode/comments
-    - file: chapters/goodcode/cleancode
     - file: chapters/goodcode/complexity
+    - file: chapters/goodcode/goodcode
+
+  - caption: Mindset & Attitude
+    chapters:
+    - file: chapters/mindsetattitude/sayno
