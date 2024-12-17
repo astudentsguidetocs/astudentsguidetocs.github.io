@@ -1,2 +1,2 @@
-# The Industry
+# The industry
 
