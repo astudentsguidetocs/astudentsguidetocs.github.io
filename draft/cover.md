@@ -7,7 +7,4 @@ his experience in computer science and software engineering
 and what makes great people, great communicators, and
 great software engineers in the field.
 
-This is a free, open source book with the sole purpose
-of helping people succeed in computer science.
-
-TODO licensing information
+Copyright (c) 2024 Ethan Richards
