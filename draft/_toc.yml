@@ -23,3 +23,8 @@ parts:
   - caption: Mindset & Attitude
     chapters:
     - file: chapters/mindsetattitude/sayno
+
+  - caption: Perspectives
+    chapters:
+    - file: chapters/perspectives/difficultpeople
+    - file: chapters/perspectives/siliconvalleyroots

@@ -1,0 +1,2 @@
+# Perseverance + growth mindset
+
