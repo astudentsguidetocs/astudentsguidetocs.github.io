@@ -1,4 +1,4 @@
-# Saying No
+# Saying no
 
 The best advice I ever got from my research advisor (or honestly anyone)
 was not how to code Python better, communicate with people,
@@ -122,5 +122,5 @@ advice. He said: "No, Ethan, you told me that."
 we need to build some uber-pressurized walls that won't leak out the gas.
 
 [^ref2]: I won't talk about it too much in this section, but this is an
-**absolute** [context-switching](https://asana.com/resources/context-switching) and
+absolute [context-switching](https://asana.com/resources/context-switching) and
 [attention residue](https://www.uwb.edu/business/faculty/sophie-leroy/attention-residue#:~:text=“Attention%20residue%20easily%20occurs%20when,rush%20to%20get%20it%20done.) nightmare.

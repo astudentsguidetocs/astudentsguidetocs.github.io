@@ -27,3 +27,9 @@ parts:
     chapters:
     - file: chapters/perspectives/difficultpeople
     - file: chapters/perspectives/siliconvalleyroots
+
+  - caption: Jobs & Interviews
+    chapters:
+    - file: chapters/jobsinterviews/jobs
+    - file: chapters/jobsinterviews/interviews
+    - file: chapters/jobsinterviews/atthejob
