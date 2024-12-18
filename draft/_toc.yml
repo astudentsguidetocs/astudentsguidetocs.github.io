@@ -22,11 +22,33 @@ parts:
   - caption: Mindset & Attitude
     chapters:
     - file: chapters/mindsetattitude/sayno
+    - file: chapters/mindsetattitude/feedback
+    - file: chapters/mindsetattitude/gettingthingsdone
+    - file: chapters/mindsetattitude/attitude
+    - file: chapters/mindsetattitude/worklife
+    - file: chapters/mindsetattitude/selfcare
+    - file: chapters/mindsetattitude/growthmindset
+
+  - caption: Design Practices
+    chapters:
+    - file: chapters/designpractices/accessibility
+    - file: chapters/designpractices/git
+    - file: chapters/designpractices/uiux
+    - file: chapters/designpractices/society
+
+  - caption: Design Principles
+    chapters:
+    - file: chapters/designprinciples/acronyms
+    - file: chapters/designprinciples/apidesign
+    - file: chapters/designprinciples/patterns
 
   - caption: Perspectives
     chapters:
     - file: chapters/perspectives/difficultpeople
     - file: chapters/perspectives/siliconvalleyroots
+    - file: chapters/perspectives/teams
+    - file: chapters/perspectives/diversity
+    - file: chapters/perspectives/women
 
   - caption: Jobs & Interviews
     chapters:
