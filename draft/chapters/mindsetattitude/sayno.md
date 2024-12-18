@@ -35,7 +35,7 @@ macOS app development, and a humanities class. I was still a lead TA for 128,
 and I was managing the (now-defunct, but then startup) OreCart project, and I was 
 also the Mines ACM President and HSPC Chair, and additionally, for a little while during 
 the start of spring, I was preparing to present my research at SIGCSE. I also played 
-intramural soccer a little later in the spring.
+intramural soccer a little later in the spring [^ref2].
 
 If you want that in credit-hour terms, I'd probably say it was around 27. If you
 want that in real human being terms, it sucked. I stopped eating a lot, and what I did eat was crap. I 
@@ -120,3 +120,7 @@ advice. He said: "No, Ethan, you told me that."
 
 [^ref1]: Maybe this is where the analogy breaks down, but imagine
 we need to build some uber-pressurized walls that won't leak out the gas.
+
+[^ref2]: I won't talk about it too much in this section, but this is an
+**absolute** [context-switching](https://asana.com/resources/context-switching) and
+[attention residue](https://www.uwb.edu/business/faculty/sophie-leroy/attention-residue#:~:text=“Attention%20residue%20easily%20occurs%20when,rush%20to%20get%20it%20done.) nightmare.
