@@ -11,6 +11,8 @@ I've come up with this (probably not comprehensive) guideline of
 what makes a great computer scientist, and it's not all about coding
 (though, it's important!). 
 
+<!-- add why this section is here and takeaways -->
+
 ## The Practical
 
 This is the code part. Can you write code? Okay, that sounds

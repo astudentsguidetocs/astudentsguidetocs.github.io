@@ -7,6 +7,8 @@ not honestly, but there are similar foundations for working in CS.
 Before you do anything else, I think you should have these
 basics down; they will *really* help in the long run!
 
+<!-- TODO add a section on the terminal here -->
+
 ## Typing + Keybinds
 
 It sounds basic, but I think people often underestimate how
