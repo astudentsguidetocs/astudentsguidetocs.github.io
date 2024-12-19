@@ -12,6 +12,8 @@ an hour (or sleeping at all, true story!), getting a good meal, going for a walk
 or anything that helps **you** feel good. (We just had a section on saying no - and for the record, I would classify saying no to things and building boundaries as self care!)
 I am by no means a health expert, but I feel like this is important to bring up because, as mentioned, it often gets neglected or brushed aside.
 
+> The light-soaked days are coming. - John Green
+
 ## Caring for others
 
 Definitely care about yourself and treat yourself with kindness, but once you

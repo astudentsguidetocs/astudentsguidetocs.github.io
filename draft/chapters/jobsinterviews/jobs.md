@@ -9,6 +9,8 @@ Just know that you may not always get the heavy-hitter companies
 first: Google, Amazon, Apple, et cetera. They might take a bit
 more experience and a bit more networking, **but that's okay!**
 
+<!-- TODO good and bad company cultures -->
+
 ## The job search
 
 Please, for the love, do not search up internships or jobs based on
@@ -17,7 +19,14 @@ Search for companies that excite you to work at and align with your
 values. Realistically, you may not always get these jobs, but you
 can work toward them and you should start with them first.
 
-**Especially with internships**, go for quantity over quality. In
+> Happiness is in the doing, not the result. - Hector Garcia, *Ikigai:
+The Japanese Secret to a Long and Happy Life*
+<!-- TODO refine this section -->
+Your happiness should be in the every day things: what you're coding
+at your job, the overall big picture of what you're working on, and
+the people you're working with. Not your salary or the names on your resume.
+
+One exception: **with internships**, go for quantity over quality. In
 a competitive and somewhat oversaturated market, experience anywhere
 is better than no experience at all. Apply around and see what you can
 get, and then evaluate your options from there. In my internship search
