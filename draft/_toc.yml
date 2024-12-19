@@ -38,6 +38,21 @@ parts:
     - file: chapters/perspectives/difficultpeople
     - file: chapters/perspectives/teams
 
+  - caption: Leadership
+    chapters:
+    - file: chapters/leadership/leadership
+    - file: chapters/leadership/teamplayers
+    - file: chapters/leadership/integrating
+    - file: chapters/leadership/mentoring
+    - file: chapters/leadership/attention
+
+  - caption: Design Principles
+    chapters:
+    - file: chapters/designprinciples/acronyms
+    - file: chapters/designprinciples/patterns
+    - file: chapters/designprinciples/apidesign
+    - file: chapters/designprinciples/tenants
+
   - caption: Design Practices
     chapters:
     - file: chapters/designpractices/accessibility
@@ -45,14 +60,12 @@ parts:
     - file: chapters/designpractices/uiux
     - file: chapters/designpractices/society
 
-  - caption: Design Principles
-    chapters:
-    - file: chapters/designprinciples/acronyms
-    - file: chapters/designprinciples/patterns
-    - file: chapters/designprinciples/apidesign
-
   - caption: Jobs & Interviews
     chapters:
     - file: chapters/jobsinterviews/jobs
     - file: chapters/jobsinterviews/interviews
     - file: chapters/jobsinterviews/atthejob
+
+  - caption: Conclusion
+    chapters:
+    - file: chapters/conclusion/conclusion
