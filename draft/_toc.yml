@@ -68,4 +68,5 @@ parts:
 
   - caption: Conclusion
     chapters:
+    - file: chapters/conclusion/recap
     - file: chapters/conclusion/conclusion
