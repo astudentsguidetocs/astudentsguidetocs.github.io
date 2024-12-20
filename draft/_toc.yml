@@ -28,7 +28,6 @@ parts:
     - file: chapters/mindsetattitude/worklife
     - file: chapters/mindsetattitude/sayno
     - file: chapters/mindsetattitude/selfcare
-    - file: chapters/mindsetattitude/growthmindset
 
   - caption: Perspectives
     chapters:
