@@ -1,2 +1,0 @@
-# Silicon Valley Roots
-

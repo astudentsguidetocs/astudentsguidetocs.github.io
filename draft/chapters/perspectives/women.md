@@ -14,8 +14,8 @@ in CS will be surrounded by a male majority most of the time.
 I would like to think that I've always respected women in CS,
 but I begun to really care even more after reading the book
 [Brotopia](https://en.wikipedia.org/wiki/Brotopia) \[[Amazon](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534)] which I
-would wholeheartedly recommend for **any** men in CS (women, too,
-although you may unforuntately be familiar with what's discussed.
+would wholeheartedly recommend for **every** man in CS (women, too,
+although you may unfortunately be familiar with what's discussed.
 Explained more below.)
 
 Before I begin: I hope none of this comes across as patronizing nor
@@ -34,7 +34,8 @@ In *Brotopia*, Emily Chang describes real Silicon Valley scenarios which sound l
 straight from [The Office](https://en.wikipedia.org/wiki/The_Office_(American_TV_series)) (e.g.
 hitting on people, making inappropriate jokes, et cetera). After reading that, I texted a friend 
 in CS, and said "no way this happens!" while describing the chapters. She said that it was normal.
-Every time I read something, I was more and more enlightened to every little thing women in CS must go through on a regular basis. I kept on texting my friend. She was continuously unsurprised.
+Every time I read something, I was more and more enlightened to every little thing women in CS must 
+go through on a regular basis. I kept on texting my friend. She was continuously unsurprised.
 
 **Sexual harrassment and discrimination is real, call it out**: Again, especially in
 Silicon Valley (if *Brotopia* is to be believed, which it should be), this is rampant.

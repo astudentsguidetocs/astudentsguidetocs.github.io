@@ -31,7 +31,6 @@ parts:
 
   - caption: Perspectives
     chapters:
-    - file: chapters/perspectives/siliconvalleyroots
     - file: chapters/perspectives/diversity
     - file: chapters/perspectives/women
     - file: chapters/perspectives/difficultpeople
