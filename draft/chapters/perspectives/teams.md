@@ -11,3 +11,8 @@ we can achieve more and do more.
 
 
 ## Know your team, know your people
+
+
+## Communicate, communicate, communicate
+
+<!-- communicate your feelings, your vision for the product, your work -->

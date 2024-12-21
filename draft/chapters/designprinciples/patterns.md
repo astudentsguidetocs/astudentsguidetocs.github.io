@@ -4,3 +4,5 @@
 
 ## Factories
 
+
+<!-- refactoring guru -->
