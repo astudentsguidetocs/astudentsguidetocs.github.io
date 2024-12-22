@@ -33,15 +33,14 @@ parts:
     - file: chapters/perspectives/diversity
     - file: chapters/perspectives/women
     - file: chapters/perspectives/difficultpeople
-    - file: chapters/perspectives/teams
 
   - caption: People & Teams
     chapters:
-    - file: chapters/mindsetattitude/communication
-    - file: chapters/leadership/leadership
-    - file: chapters/leadership/teamplayers
-    - file: chapters/leadership/integrating
-    - file: chapters/leadership/mentoring
+    - file: chapters/peopleteams/communication
+    - file: chapters/peopleteams/leadership
+    - file: chapters/peopleteams/teams
+    - file: chapters/peopleteams/integrating
+    - file: chapters/peopleteams/mentoring
 
   - caption: Design Principles
     chapters:
