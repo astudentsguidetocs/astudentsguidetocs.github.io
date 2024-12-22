@@ -16,4 +16,8 @@ them. If I give them a task, they do it. And it's not just like they're followin
 blindly: I love working with these people because they are willing to roll their sleeves
 up and work *together* even if they're not leading the product vision.
 
-<!-- Team players; a leader *is* a team player  -->
+**A leader is a team player**. They're apart of a team, so why wouldn't they be?
+But even more than that, if you're a leader, you should know when to step down
+and listen to your team players. Often times they'll be the expert and know more
+than you about something, and you can treasure that and use that to the entire
+team's advantage.
