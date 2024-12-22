@@ -15,3 +15,5 @@ As someone more leadership-inclined, I love good team players and seriously resp
 them. If I give them a task, they do it. And it's not just like they're following me
 blindly: I love working with these people because they are willing to roll their sleeves
 up and work *together* even if they're not leading the product vision.
+
+<!-- Team players; a leader *is* a team player  -->
