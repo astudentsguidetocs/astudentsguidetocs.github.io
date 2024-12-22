@@ -77,11 +77,8 @@ just want you to cut to the chase. I think it's also a bit silly if you're super
 formal over email but then casual in person. Emails should genuinely reflect you
 and what you're trying to communicate.
 
-### and more
+# In sum
 
 Good communication is communication that your target audience understands
 via the medium you chose. Whether it's a text, email, or actually speaking
 out loud, if you can get the point across effectively, you did good.
-
-We'll also talk in the next section about feedback and how to effectively
-communicate constructive criticism with others.

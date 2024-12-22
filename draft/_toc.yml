@@ -22,7 +22,6 @@ parts:
   - caption: Mindset & Attitude
     chapters:
     - file: chapters/mindsetattitude/attitude
-    - file: chapters/mindsetattitude/communication
     - file: chapters/mindsetattitude/feedback
     - file: chapters/mindsetattitude/gettingthingsdone
     - file: chapters/mindsetattitude/worklife
@@ -36,8 +35,9 @@ parts:
     - file: chapters/perspectives/difficultpeople
     - file: chapters/perspectives/teams
 
-  - caption: Leadership
+  - caption: People & Teams
     chapters:
+    - file: chapters/mindsetattitude/communication
     - file: chapters/leadership/leadership
     - file: chapters/leadership/teamplayers
     - file: chapters/leadership/integrating
