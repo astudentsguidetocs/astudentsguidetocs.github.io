@@ -31,3 +31,5 @@ helped me succeed up to this point.
 The purpose of this book is not for me to brag like I just did (sorry) -- it's all about
 my understanding of the things that make CS + software engineering what it is, and the
 people the way they are, and how we all can succeed both individually and together in this field. Enjoy!
+
+<!-- why i'm writing: building a habit of writing/practicing communication + also as a reflective process -->
