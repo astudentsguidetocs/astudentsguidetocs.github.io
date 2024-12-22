@@ -1,6 +1,15 @@
 # API Design
 
+For beginners: REST and CRUD are great acronyms
+describing how we design APIs and web operations.
 
-<!-- design it as if you're the one using it -->
+**Design as if you're the one using it**:
 
-<!-- rest, crud, etc. -->
+
+
+**Beware backwards compatibility**:
+
+
+
+**Document it well**:
+
