@@ -18,9 +18,5 @@ Most languages also have books like [Effective Java](https://www.amazon.com/Effe
 which explain patterns, paradigms, and other useful things that help you get to that
 next level of understanding [^ref1].
 
-## Builder Classes
-
-<!-- TODO -->
-
 [^ref1]: I asked for this book for my birthday one time. My parents were slightly confused 
 and perhaps a twinge disappointed. :)

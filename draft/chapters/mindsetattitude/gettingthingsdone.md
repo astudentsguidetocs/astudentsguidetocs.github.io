@@ -82,7 +82,10 @@ for you, but I think to some degree if you're trying toward higher levels of pro
 you need a way to split up your time.
 
 Finally, as my first point explained: figure out what works for you. Not all of this advice
-is going to work, but hopefully it sets you on the right path.
+is going to work, but hopefully it sets you on the right path. And if you find your systems 
+aren’t working, change something! Drop a class. Tell your boss something isn’t working. 
+Reorganize your life priorities. Often times we think we have less control over our lives 
+than we actually do.
 
 ## Distractions
 
