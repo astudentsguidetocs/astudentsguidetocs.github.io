@@ -133,7 +133,7 @@ deal with it.
 
 Despite all that I've said here, don't enter the **productivity trap**. The productivity
 trap is the idea that you have to be productive 100% of the time; you don't *have* to,
-and in most cases, you *literally can't be*. Sure, if you're pushing toward something great
+and in most cases, you *literally can't be* [^ref7]. Sure, if you're pushing toward something great
 you can make sacrifices, but otherwise, say no (see the next section).
 
 Similar to this is the **self-improvement trap**: you're always buying things and just
@@ -159,3 +159,5 @@ looks like author James Clear also posted an [explanation here](https://jamescle
 [^ref5]: It's the aggregate of marginal gains, again!
 
 [^ref6]: I think GTD suggested entire days, but do what works for you.
+
+[^ref7]: I should take my own advice sometimes. :)
