@@ -42,7 +42,6 @@ parts:
     - file: chapters/leadership/teamplayers
     - file: chapters/leadership/integrating
     - file: chapters/leadership/mentoring
-    - file: chapters/leadership/attention
 
   - caption: Design Principles
     chapters:
