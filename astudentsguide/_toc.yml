@@ -50,9 +50,9 @@ parts:
 
   - caption: Design Practices
     chapters:
-    - file: chapters/designpractices/accessibility
     - file: chapters/designpractices/git
-    - file: chapters/designpractices/uiux
+    - file: chapters/designpractices/accessibility
+    - file: chapters/designpractices/users
     - file: chapters/designpractices/society
 
   - caption: Jobs & Interviews
