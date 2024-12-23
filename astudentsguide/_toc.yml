@@ -21,6 +21,7 @@ parts:
   - caption: Mindset & Attitude
     chapters:
     - file: chapters/mindsetattitude/attitude
+    - file: chapters/mindsetattitude/failure
     - file: chapters/mindsetattitude/feedback
     - file: chapters/mindsetattitude/gettingthingsdone
     - file: chapters/mindsetattitude/worklife
