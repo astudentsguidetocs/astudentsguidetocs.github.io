@@ -23,6 +23,10 @@ If I'm ever asked for advice by high schoolers, undecided majors, or people alik
 going into CS, I tell them it can be great, but I also make it abundantly clear what 
 they're getting into and that they'll need the right attitude, mindset, and a *lot* of patience.
 
+## Empathy
+
+<!-- Empathy Over Genius: Engineers are better at “systemizing” than empathizing, and this is inherently learned., but you can practice -->
+
 ## Remember where you came from
 
 So many computer scientists I know are so humble and modest that I questioned even
