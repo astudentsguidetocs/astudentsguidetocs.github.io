@@ -10,7 +10,7 @@ Abstraction is the idea that we can "abstract" details away so
 that we can focus on the bigger picture. I always like this
 picture [^ref1] that we've showed forever in intro to CS @ Mines:
 
-![abstraction](../assets/abstraction.webp)
+![abstraction](../../assets/abstraction.webp)
 
 For instance, it's useful to understand that computers are made
 of [lots of transistors](https://www.cnet.com/tech/mobile/apple-a17-pro-the-new-chip-brain-in-the-iphone-15-pro-pro-max/).

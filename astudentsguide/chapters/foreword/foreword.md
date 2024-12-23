@@ -33,3 +33,5 @@ my understanding of the things that make CS + software engineering what it is, a
 people the way they are, and how we all can succeed both individually and together in this field. Enjoy!
 
 <!-- why i'm writing: building a habit of writing/practicing communication + also as a reflective process -->
+
+<!-- the full book can be downloaded at this link -->
