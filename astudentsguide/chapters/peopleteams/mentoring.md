@@ -27,7 +27,7 @@ your advice (or not), but you should do your due diligence and let them know
 if you're not telling them the full picture so that they can make their own
 decisions.
 
-..and, if you don't know the answer: that's okay! I've had mentors tell
+If you don't know the answer: that's okay! I've had mentors tell
 me that they don't know or don't have the time to debug and to trust myself.
 Sure enough, I solved it in the end.
 

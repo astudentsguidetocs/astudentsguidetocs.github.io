@@ -9,7 +9,7 @@ can't ever hear the other person talking and genuinely process what
 they're telling you, nobody is making any progress.
 
 Communication comes in different shapes and sizes: a hallway chat,
-a presentation, a meeting, an email, a text, a book, et cetera et cetera.
+a presentation, a meeting, an email, a text, a book, and so on.
 
 Both in verbal and written communication, you should **hear yourself speak**.
 Can you actually hear and understand what you're saying as you're saying it,
@@ -70,7 +70,7 @@ They need your attention. Whatever it is, both parties want to get down to busin
 
 If you send over **four** emails back and forth, it's probably time to refocus because
 something is getting lost. Change the subject line. Start a new thread. Schedule a call
-or an in person meeting. Or even send them a text or Teams message. Either way, don't
+or a meeting in person. Or even send them a text or Teams message. Either way, don't
 make a giant thread that keeps on growing with more people.
 
 Again, know your audience. If it's a CEO, department head, or someone who you

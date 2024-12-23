@@ -5,7 +5,7 @@ you guess that one? Sometimes I feel like the art of
 computer science is being able to guess the acronym of
 whatever obscure thing you're using [^ref1].
 
-There are some fundamental ones though, that I think
+There are some fundamental ones that I think
 are well-worth talking about in no particular order:
 
 **DRY**: Do Not Repeat Yourself. This one is self-explanatory,

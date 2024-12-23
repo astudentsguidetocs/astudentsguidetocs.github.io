@@ -54,9 +54,9 @@ Before I continue, here are some decent apps and methods which you can use:
 - The increasingly popular [Obsidian](https://obsidian.md)
 - Good old pen and paper (surprisingly effective and **not** outdated as we may think!)
 
-Build up structures that help you. This is a mix of GTD and my methodology, but split up
-your short term TODOs, long term projects, and those projects which "would be nice" but need
-to stay out of sight and out of mind for you to get things done. 
+Build up structures that help you. I like to split up my short term TODOs, 
+long term projects, and those projects which "would be nice" but need
+to stay out of sight and out of mind for me to get things done. 
 - My short term TODOs are in my notes. I organize them vaguely by priority, e.g.
 the highest priority things go to the bottom so I can delete them easily.
 - My long term projects are sometimes in my notes, and mostly float towards the top
@@ -77,9 +77,9 @@ If you can just put in a small amount of time each day to "chip away" at a large
 it will eventually become much bigger and much less scary to deal with.
 
 One other system beyond a TODO list like I've said above is a **calendar**. It surprises
-me how many people make it through life without using calendars, and again, do what works
+me how many people make it through life without using calendars. Again, do what works
 for you, but I think to some degree if you're trying toward higher levels of productivity,
-you need a way to split up your time.
+you need a way to manage your time.
 
 Finally, as my first point explained: figure out what works for you. Not all of this advice
 is going to work, but hopefully it sets you on the right path. And if you find your systems 
@@ -114,15 +114,15 @@ The final thing that's important in organization and productivity is continuatio
 **It's not enough to do it once**. I never quite understand the people who clean out
 their room once every few years. Keep on top of it! The less distractions you let
 build up and the less that's in the back of your mind of what's around you, the
-less you have to worry about. It's the same with your organization and productivity:
-don't let it slip, build up, and then you're stressed because you have a million other
+less you have to worry about. It's the same with your organization and productivity.
+Don't let it slip, build up, and then you're stressed because you have a million other
 things to do but you also need to clean whatever it is; do a little bit when you can [^ref5].
 
 Planning your days and your tasks is time well spent. Take 1-3 hours every weekend to 
 reorganize your priorities [^ref6], or spend 5 minutes every night before you go to 
-sleep reorganizing. I try to get off my phone before I go to bed, but when I inevitably
-don't, I find it productive to try to see what I can knock off my TODO list from the day
-or add what I'm thinking about which is coming up. Just make sure you don't turn your 
+sleep reorganizing. At the end of a day, I find it productive to spend those
+five minutes and see what I can knock off my TODO list from the day
+or add things that I'm thinking about. Just make sure you don't turn your 
 planning into procrastination.
 
 Often times this is unavoidable in life, but it feels like we're always reacting
@@ -153,7 +153,7 @@ remote work being prevalent. However, most of the systems David Allen mentions c
 
 [^ref2]: One of the worst sentences I have ever written. Sorry not sorry! :)
 
-[^ref3]: ..which can sync with your regular calendars, by the way. Your work calendars
+[^ref3]: ...which can sync with your regular calendars, by the way. Your work calendars
 which are probably on Outlook can also do this. Get everything into one place, it helps.
 
 [^ref4]: I think this is originally from [Atomic Habits](https://jamesclear.com/atomic-habits), which is a great book, but it 

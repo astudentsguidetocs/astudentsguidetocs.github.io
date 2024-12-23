@@ -8,14 +8,13 @@ be doing the same.
 
 I've spoken with a lot of HR people and tech directors alike,
 and they all seem to agree: your attitude is more important than
-how good you are at coding; it's how the process of you solve the 
-problems, react to adversity, and show your personality in general.
+how good you are at coding. It's how you show the process of how 
+you solve the problem, react to adversity, and show your personality in general.
 
 You might get asked things like:
 - What is a time when you made a mistake and how did you fix it?
 - Let's say you're behind on a project. How do you rectify the situation?
 - Name one time you were challenged and how you overcame the challenge.
-- et cetera, et cetera.
 
 I always hate these questions. It's hard to think on the spot (maybe I just
 need to prep more.. guilty!) and for instance, I rarely find myself behind
@@ -34,11 +33,11 @@ you're working on interesting?
 - What's your favorite and least favorite part about the work you do?
 
 I like these questions because they put you in a closer position to what it
-would actually be like at the job; they help you imagine yourself in that exact role,
-which is good for you to find out if you want to be there, and also shows great interest
+would actually be like at the job. They help you imagine yourself in that exact role,
+which is good for you to find out if you want to be there; and it shows good interest
 to the interviewer.
 
-I would also note that some of these questions could have negative responses; we're
+I would also note that some of these questions could have negative responses. We're
 not trying to goad bad answers out of people (and **rarely, if ever** will you hear
 any interviewer say *anything* bad about the company), but you do get honest answers.
 I've heard things like "I don't like working with technology X or edge case Y," which is
@@ -57,9 +56,9 @@ things you *should* be genuinely interested in.
 
 ## In sum
 
-You could read a hundred interview books and blogposts, watch a hundred
+You could read a hundred interview books and blog posts, watch a hundred
 interview prep YouTube videos, do LeetCode problems until you're insane [^ref2],
-and it will *maybe probably somewhat mostly* prepare you..right?
+and it will *maybe probably somewhat mostly* prepare you, right?
 
 But when it comes down to it, **just be yourself**. Get your personality across,
 and **interview the company** as much as they're interviewing you.

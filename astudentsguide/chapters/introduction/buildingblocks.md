@@ -1,6 +1,6 @@
 # The building blocks
 
-Remember when you learned your ABCs as a kid? ..when 
+Remember when you learned your ABCs as a kid? When 
 you learned how to write and how to read? Okay, probably
 not honestly, but there are similar foundations for working in CS.
 

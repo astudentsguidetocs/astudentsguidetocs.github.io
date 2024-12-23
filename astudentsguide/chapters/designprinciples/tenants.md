@@ -33,7 +33,7 @@ in your memory too, ready to go.
 
 **Don't reinvent the wheel**, unless the wheels are flat or square [^ref3].
 Now, maybe there's a case for reinventing the wheel while you're learning.
-Software engineering students at Mines have forever been succombed to making
+Software engineering students at Mines have forever been succumbed to making
 the board game Clue, but it's good practice.
 
 When you get out into industry, you probably won't be reinventing the wheel,

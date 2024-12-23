@@ -13,8 +13,8 @@ and/or what made you leave? What made you feel valued? These are
 important things to reflect on when you have your own teams.
 
 The best way I saw at ACM to integrate new people into a community [^ref1]
-was to simply **go and talk with people** and **break down the twos**:
-most people would come to the club with someone they knew, and then
+was to simply **go and talk with people** and **break down the twos**.
+Most people would come to the club with someone they knew, and then
 awkwardly just sit in the back eating pizza and not interacting
 with anyone but themselves.
 
@@ -57,7 +57,7 @@ fires and holding everything together, like that [scene in Captain America: Civi
 make everyone around you more productive and successful.
 
 
-[^ref1]: Building a community is a whole different skillset: it takes a
+[^ref1]: Building a community is a whole different skill set: it takes a
 **lot** of work and is a fragile organism; one step wrong or one person
 removed and the community starts to break down.
 

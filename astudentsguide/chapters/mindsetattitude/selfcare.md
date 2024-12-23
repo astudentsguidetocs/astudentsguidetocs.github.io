@@ -1,10 +1,10 @@
 # Self care
 
-..is something that is way too often neglected by folks in our profession.
+...is something that is way too often neglected by folks in our profession.
 The amount of times I've heard things along the lines of "I am mentally unwell"
 or morbid jokes about mental health at Mines is astounding. I think people push 
 themselves so hard to reach a certain GPA and appease others, make a startup to
-make a living, et cetera et cetera - to the point where they forget to care
+make a living, et cetera - to the point where they forget to care
 for themselves.
 
 Self care can look like many different things: perhaps it's sleeping in a half
@@ -38,7 +38,7 @@ like meditation is portrayed in the movies.
 
 Mindfulness is all about noticing your thoughts and feelings **in the present moment**
 and questioning and observing the world thoughtfully. I'm not sure I could teach it to
-you in a couple paragraphs; check out Healthy Minds below for what I think is the best
+you in a couple paragraphs. Check out Healthy Minds below for what I think is the best
 program to learn.
 
 Mindfulness is rooted in [neuroplasticity](https://mcpress.mayoclinic.org/healthy-aging/the-power-of-neuroplasticity-how-your-brain-adapts-and-grows-as-you-age/), the brain's ability to 
@@ -54,10 +54,10 @@ motive degrades your experience as it's more about how you *actually* feel. I ju
 benefits as a positive side effect from mindful introspection.
 
 I believe so much in meditation and mindfulness that I would like to offer up a few
-options that you could literally start in the next five minutes; all great options that I have either personally used or know people who do [^ref4]:
+options that you could literally start in the next five minutes [^ref4]:
 - [Healthy Minds](https://www.portal.hminnovations.org/launch) - free, out of a lab
 in Madison, WI called the [Center for Healthy Minds](https://centerhealthyminds.org), with
-some practices inspired by Tibetian Buddhism [^ref2]. I've been using this app for about
+some practices inspired by Tibetan Buddhism [^ref2]. I've been using this app for about
 two years and I think it's the best one; it also talks about the science behind the meditations
 they're teaching you, which is great for us systematic engineers. [^ref3].
 - [Smiling Mind](https://www.smilingmind.com.au/smiling-mind-app) - the first meditation app I used. It's out of Australia, but as long as you don't mind an Australian accent (I actually found it *helped* me listen and focus in guided meditation) it's great!
@@ -76,4 +76,5 @@ do and how even they deal with anxiety in their lives.
 as it has brought me so much calm and clarity in my life. Feel free to bring it up with me,
 I love to talk about it.
 
-[^ref4]: I receive no payment from any of these. I am just spreading the word.
+[^ref4]: These are all great options that I have either personally used or know people who do.
+I receive no payment from any of these. I am just spreading the word.

@@ -10,7 +10,7 @@ Looking back, this may have been a slight red flag, but in the moment
 I had responded with some noncommittal answer leaning towards "no," which
 if I read the room correctly, may have been the wrong answer. Those guys
 seemed to be looking for students who would give it their all and work long
-hours, which isn't bad if that's what you want -- but I think the pursuit of
+hours, which isn't bad if that's what you want. But I think the pursuit of
 "great things," especially in a startup environment, can start to blur the
 lines with your health and life, and therein lies our issues in CS with
 work-life balance [^ref2].
@@ -30,7 +30,7 @@ afraid to say 'no thanks, I don't want to stay late today.' If you're a college-
 person reading this, I think that's a great skill to learn.
 
 Building boundaries means setting up things in your life: e.g. exercise time,
-time to eat, and time for friends, that are non negotiables as you work. That way,
+time to eat, and time for friends, that are non-negotiables as you work. That way,
 you've got the foundations to be healthy while still working.
 
 ## Burnout
@@ -55,9 +55,10 @@ arrangement.
 
 The entire next section speaks about how to say no and build boundaries
 in your life. This is also key in avoiding burnout and maintaining a healthy
-work-life balance. And -- for the record -- I don't like the expression "maintaining 
-a healthy work-life balance." It seems like a [love like ghosts](https://genius.com/Lord-huron-love-like-ghosts-lyrics) [^ref5] situation: everybody talks but nobody knows.
-Or, everybody talks but seems to disregard their own advice and do their own thing.
+work-life balance. And, for the record: I don't like the expression "maintaining 
+a healthy work-life balance." It seems like a [love like ghosts](https://genius.com/Lord-huron-love-like-ghosts-lyrics) [^ref5] 
+situation: everybody talks but nobody knows. Or, everybody talks but
+ seems to disregard their own advice and do their own thing.
 
 The best thing you can do is to **find what works for you**; stress is a normal part of
 life, but if you become incapacitated or depressed over it, you need to change something,

@@ -58,7 +58,7 @@ need to worry that much about the code.
 
 I'm too much of an idealist to fully agree with him, but I do see his point.
 Especially if you're a startup or small company, you can't waste time forever
-trying to improve and clean your codebase -- you're out there on the frontlines
+trying to improve and clean your codebase. You're out there on the frontlines
 trying to push out the next feature ASAP so that you can grow and stay afloat.
 
 I disagree with this point mainly because if you're just rushing features out,

@@ -20,8 +20,8 @@ ups and downs of coding (see *What is computer science?*) is a different questio
 and one they probably answered well. 
 
 If I'm ever asked for advice by high schoolers, undecided majors, or people alike on
-CS as a field, I tell them it can be great, but I also make it abundantly clear what 
-they're getting into and that they'll need the right attitude and mindset and a *lot* of patience.
+going into CS, I tell them it can be great, but I also make it abundantly clear what 
+they're getting into and that they'll need the right attitude, mindset, and a *lot* of patience.
 
 ## Remember where you came from
 
@@ -42,7 +42,7 @@ thing, but on another topic, you might just take the backseat and let the expert
 ## Perseverance
 
 I probably don't need a chapter on this either, as this is a universal experience
-at this point throughout many professions. But beyond just perserverance, **perseverance
+at this point throughout many professions. But beyond just perseverance, **perseverance
 with patience** seems to be the key while coding.
 
 Yes, your code will break. Yes, you will be angry, frustrated, and/or disappointed. But

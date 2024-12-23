@@ -26,7 +26,7 @@ sooner rather than later) about how accessible your products are. Designing
 for a wider audience of people should be appealing.
 
 I'm not pretending to be some expert on accessibility and I hope to learn much
-more and also share and teach much more as I advance in my career. I just hope
+more and share and teach much more as I advance in my career. I just hope
 I've convinced you to care (or even learn just a bit) about accessibility too.
 I hope not, but some day you or I may be affected by something, and I would 
 hope that the software and hardware we use can support our needs.

@@ -25,7 +25,7 @@ in office events [^ref2].
 **Get to know people**: I sound like a broken record, but this is really
 important too. Get to know people and their motivations: they're working toward
 something the same as you, whether it's a promotion or simply something for a loved one.
-Remembering things about people goes a long way, especially in the neverending
+Remembering things about people goes a long way, especially in the never ending
 churn of standups where your team might try to talk about something other than work.
 
 **Keep learning**: everything we've spoken about applies. Have a growth mindset;

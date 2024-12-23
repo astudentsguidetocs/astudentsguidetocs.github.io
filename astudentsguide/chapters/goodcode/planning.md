@@ -24,7 +24,7 @@ in their head. You don't have to be a good artist to do this; the best sketches
 come in the form of scratchy, messy, incoherent writings on whatever napkin or
 paper is nearby.
 
-Sidenote: I certainly hope you're *drawing it out* if you're in the realm of
+As an aside, I certainly hope you're *drawing it out* if you're in the realm of
 frontend/UI/UX design; pop open Figma or just go "old fashioned" with
 some pen and paper.
 
@@ -32,9 +32,9 @@ some pen and paper.
 
 Often times, when I plan: *the code writes itself*. I find people's use of
 [GitHub Copilot](https://github.com/features/copilot) pretty funny, as normally people
-don't comment out code half as well, but when you're trying to tell the genAI what
+don't comment code half as well, but when you're trying to tell the genAI what
 you're going for, you tend to explain yourself a little better and more clearly
-until it gets the right code that you're looking for. It's the same idea --
+until it gets the right code that you're looking for. It's the same idea:
 if you outline your code, you (or AI) can write it pretty quickly. I'll have
 an entire section on comments though.
 

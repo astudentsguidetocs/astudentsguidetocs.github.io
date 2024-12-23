@@ -6,7 +6,7 @@ in yourself and *your degree* (assuming you're pursuing one), you
 will be just fine.
 
 Just know that you may not always get the heavy-hitter companies
-first: Google, Amazon, Apple, et cetera. They might take a bit
+first: Google, Amazon, Apple, etc. They might take a bit
 more experience and a bit more networking, **but that's okay!**
 
 <!-- TODO good and bad company cultures -->

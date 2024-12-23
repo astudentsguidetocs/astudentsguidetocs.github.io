@@ -5,7 +5,7 @@ and many other side projects and group projects. And again, this is
 just what I've noticed. You'll learn what works for you, and I'll
 also probably learn and change my advice as my career goes on. I
 think a good leader has a vision, **cares**, takes **initiative**, 
-and also delegates as needed. See below for my thoughts.
+and delegates as needed. See below for my thoughts.
 
 I would also like to note that a good leader can be a good team player;
 you don't always need to be at the helm. See the next section for more info.
@@ -57,7 +57,7 @@ it built a better community aligned with my vision.
 
 A good leader cares. Tony Fadell once said that as a CEO, your job is to care.
 You have to care about all of your teams and people (to the best of your ability),
-not just one. If your team is big enough, it may have subteams, and you may not
+not just one. If your team is big enough, it may have sub-teams, and you may not
 simply have enough time in the day to check in with everybody. But check in with
 each team or each project's leader.
 
@@ -97,11 +97,11 @@ so I let them have at it.
 When I was training Megan for her presidency, I couldn't stress this enough.
 Pick your battles: you'll always have the opportunity to do more, but you just
 can't. You don't have the time or energy. Delegate the things you can. We hired
-officers who were excited to do a job and also willing to listen to authority.
+officers who were excited to do a job and willing to listen to authority.
 
 While on the subject: My vice president, Umberto, was genuinely one of the most stellar
 communicators and leaders I ever met. He let me delegate a lot of things onto him, 
-and he would communicate and also delegate within our team. He *just understood* how I
+and he would communicate and delegate within our team. He *just understood* how I
 worked, and I told him how eternally grateful I was for that. Honestly, I think
 this is pretty rare, but if you can get someone like that to work with you,
 leadership becomes so much more fun.

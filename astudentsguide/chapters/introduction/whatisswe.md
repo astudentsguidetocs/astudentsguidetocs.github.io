@@ -12,7 +12,7 @@ and problem solving. Computer science is as much of an art as it is a science; t
 concrete theory, mathematics, etc., whereas the art comes from the people and the problem solving.
 
 There's no precise formula, mathematical proof, or scary AI replacement for problem solving (thank goodness, or I 
-would be out of a job) nor is there one for working with real people and real teams; nor is there one for making good 
+would be out of a job) nor is there one for working with real people and real teams. Nor is there one for making good 
 decisions [^ref].
 
 ## What is software engineering?
@@ -55,7 +55,7 @@ of that process, and seeing the fix or the final product makes it all worth it f
 you're not on board with that contract, it's going to be a rough ride.
 
 
-[^ref]: The pessimists among us finished this thought with: ..yet. Yes, AI+ML exists, and it's good. But also,
+[^ref]: The pessimists among us finished this thought with: ...yet. Yes, AI+ML exists, and it's good. But also,
 we needn't worry about that day until it arrives.
 
 [^ref2]: Even if you don't go into software engineering, CS helps in a *lot* of different ways and has many other job outcomes.

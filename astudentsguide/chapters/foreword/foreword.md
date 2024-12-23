@@ -12,7 +12,7 @@ and software engineering? What is even the point of this book?*
 I think I'm a fairly well respected figure, at least in the [CS@Mines](https://cs.mines.edu) 
 circles. My college career has had a special emphasis on CS education; I helped design
 our introductory CS course, CSCI128, helped with our Systems Programming course, CSCI210,
-and also got my [research published at SIGCSE 2024](https://dl.acm.org/doi/10.1145/3626253.3635535).
+and got my [research published at SIGCSE 2024](https://dl.acm.org/doi/10.1145/3626253.3635535).
 My masters project is designing a UI/UX course for the department. I've been a lead TA for 128 since 
 its inception (and I love it!). I was also president of the largest CS club at Mines, 
 [Mines ACM](https://acm.mines.edu), for a year, and I had various involvement with other roles 
@@ -23,7 +23,7 @@ I'm not here to talk about companies (go stalk my LinkedIn if you care), but I'v
 had one internship (and another for my dad's company, if you want to count that), with
 another lined up for Summer '25. Also, I don't like mentioning this for a lot of reasons 
 (some of which I'll talk about later!), but I started programming when I was 12. 
-Obviously, this still does not make me an expert of all things software-engineering, 
+Obviously, this still does not make me a CS expert by any means, 
 but I have seen a lot of things across the realms of academia, real world software,
 and otherwise that I would love to share that helped me along my journey and 
 helped me succeed up to this point.

@@ -19,8 +19,8 @@ This is the code part. Can you write code? Okay, that sounds
 simple, but in software engineering terms, this is obviously
 really important.
 
-I've spoken to senior engineers and directors from the likes of Visa and 
-Google, and they seem to agree: what elevates a developer (especially in 
+I've spoken to senior engineers and directors from big companies, 
+and they seem to agree: what elevates a developer (especially in 
 terms of junior/senior roles) is their ability to notice patterns within 
 code and make refactors that make the project better. Better could mean 
 saving people time working on it, helping its longevity, or even improving 
@@ -29,13 +29,13 @@ its architecture.
 More abstractly, can you take any problem and implement it? This could look
 like a backend, or this could look like a beautiful website. Either way,
 you're that person who doesn't back down from a problem and quite simply,
-implements it and implements it well! i.e., you factor in maintainability,
+implements it and implements it well! I.e., you factor in maintainability,
 readability, and clarity.
 
 ## The Theory
 
-The theory part -- hear me out, even though I'll hopefully and probably
-never have to whip up a mathematical proof on the jobsite, I think the
+The theory part: hear me out, even though I'll hopefully and probably
+never have to whip up a mathematical proof on the job site, I think the
 theory allows you to do three things: communicate, teach, and leverage power.
 
 Communicating: This is the most important part in my opinion. My research advisor

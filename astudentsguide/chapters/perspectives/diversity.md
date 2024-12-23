@@ -6,7 +6,7 @@ the stone ages. Diversity is important, it benefits everyone, and you can help.
 [Brotopia](https://en.wikipedia.org/wiki/Brotopia) \[[Amazon](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534)] by Emily Chang is a great book, though it almost reads like a
 report, on all of the unfortunate things that happen in Silicon Valley, particularly to women in CS.
 I always wanted to work in Silicon Valley, but now I'm thinking twice about working there (assuming
-it's not at an established company like Apple/Google) - *Brotopia* has damning chapters on the founders
+it's not at an established company like Apple/Google). *Brotopia* has damning chapters on the founders
 and the cultures that thrive in the valley. Spoiler: from the beginning (perhaps it has gotten better since),
 it's been white males.
 

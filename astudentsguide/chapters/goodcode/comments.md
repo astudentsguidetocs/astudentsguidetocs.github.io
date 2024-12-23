@@ -11,7 +11,7 @@ to comment everything, but also there's a balance in commenting
 and if the code is self explanatory it's not necessary.
 
 Almost immediately after, he spoke for 2 minutes on how commenting is 
-the worst (or so it felt like it, as I nodded along like 😐) and this is
+the worst (or so it felt like, as I nodded along sadly) and this is
 something they would watch out for and work on at the company and how
 you should be writing the most glorious code that does not need commenting.
 
@@ -33,7 +33,7 @@ it's a balance!
 
 Yes, I think the popular and rising argument that the code should 
 suffice itself **is true**. Don't go around trying to one-line things
-into oblivion for the sake of "efficiency" - if it doesn't make any sense
+into oblivion for the sake of "efficiency." If it doesn't make any sense
 to look at at-a-glance, then you've just wasted everybody's time with regard
 to literally anyone and everyone who looks at that code in the future.
 
