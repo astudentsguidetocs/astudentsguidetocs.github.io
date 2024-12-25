@@ -11,7 +11,11 @@ I've come up with this (probably not comprehensive) guideline of
 what makes a great computer scientist, and it's not all about coding
 (though, it's important!). 
 
-<!-- add why this section is here and takeaways -->
+This section is here to say why we study these different areas
+and how we can strive to have more a more holistic understanding
+of the field. We're not putting anybody down with this. In fact,
+I encourage you to think of the parts you're better at. I was
+never good at the theory.
 
 ## The Practical
 

@@ -15,8 +15,9 @@ video. However, I do often see my 128 students assume or equate that in their
 own minds, so I think this is important to debunk.
 
 Short code *can* be better, but if you're gunning for a one-line solution that
-is just going to be rewritten, I think you need to rethink things.
- <!-- Consider the following: -->
+is just going to be rewritten by someone else in the future, I think you need to
+rethink things.
+
 This isn't to say that we can't be smart, e.g.:
 ```
 lst = [1, 2, 3]
