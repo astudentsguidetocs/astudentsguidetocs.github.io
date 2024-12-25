@@ -9,8 +9,6 @@ Just know that you may not always get the heavy-hitter companies
 first: Google, Amazon, Apple, etc. They might take a bit
 more experience and a bit more networking, **but that's okay!**
 
-<!-- TODO good and bad company cultures -->
-
 ## The job search
 
 Please, for the love, do not search up internships or jobs based on
@@ -21,10 +19,13 @@ can work toward them and you should start with them first.
 
 > Happiness is in the doing, not the result. - Hector Garcia, *Ikigai:
 The Japanese Secret to a Long and Happy Life*
-<!-- TODO refine this section -->
+
 Your happiness should be in the every day things: what you're coding
 at your job, the overall big picture of what you're working on, and
 the people you're working with. Not your salary or the names on your resume.
+Find a company with a culture that suits you. Glassdoor is a decent
+website for seeing what people generally think of working at the company
+you're looking at.
 
 One exception: **with internships**, go for quantity over quality. In
 a competitive and somewhat oversaturated market, experience anywhere
