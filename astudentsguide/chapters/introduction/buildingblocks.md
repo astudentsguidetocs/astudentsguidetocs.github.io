@@ -7,8 +7,6 @@ not honestly, but there are similar foundations for working in CS.
 Before you do anything else, I think you should have these
 basics down; they will *really* help in the long run!
 
-<!-- TODO add a section on the terminal here -->
-
 ## Typing + Keybinds
 
 It sounds basic, but I think people often underestimate how
@@ -26,13 +24,18 @@ It makes you so much quicker if you just invest a bit of time to learn.
 If I really tried, I could probably not use a mouse for a few hours
 while coding. I know people who *intentionally* do that, and do it well.
 
-## Git
+## Git + The Terminal
 
 I've helped undergraduate & graduate students, professionals at
 jobs, and maybe even a couple of professors with Git before. I can't
 stress enough how vital this skill is to have; you can learn any programming
 language and people will forgive you, but if you roll up to a job not knowing
 Git either, I think that might be frustrating to your coworkers.
+
+On a similar note, the terminal is great to know and use. Know your file
+system and know how to use Git over the command line (GitHub Desktop is doing
+the same thing). Plus, you'll probably see some binaries and other applications
+off of GitHub that you might need to run. It's just useful to know.
 
 ## Personal Computers
 

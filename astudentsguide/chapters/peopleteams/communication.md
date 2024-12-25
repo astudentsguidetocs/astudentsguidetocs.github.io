@@ -41,9 +41,6 @@ in style and in speed. If you're neck deep into an explanation and you're gettin
 blank stares, slow down. See if you can boil your explanation down to just a few
 key ideas, and then if your audience wants more details, they will ask for it.
 
-<!-- less is more: even if something is super complicated, saying
-stuff for the sake of sounding smart or using big words is pointless. -->
-
 It's fine to be silent for a few seconds too. This gives more time for you to think
 about what you're going to say, and for your audience to process what you're saying.
 
