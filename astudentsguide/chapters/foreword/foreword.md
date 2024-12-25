@@ -28,10 +28,11 @@ but I have seen a lot of things across the realms of academia, real world softwa
 and otherwise that I would love to share that helped me along my journey and 
 helped me succeed up to this point.
 
+I want to also build a habit of writing and practicing my communication by
+writing this, and also as a reflective process now that I'm wrapping up college.
+
 The purpose of this book is not for me to brag like I just did (sorry) -- it's all about
 my understanding of the things that make CS + software engineering what it is, and the
 people the way they are, and how we all can succeed both individually and together in this field. Enjoy!
 
-<!-- why i'm writing: building a habit of writing/practicing communication + also as a reflective process -->
-
-<!-- the full book can be downloaded at this link -->
+The full book can be downloaded [as a PDF here]().
