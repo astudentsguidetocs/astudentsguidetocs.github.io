@@ -5,7 +5,7 @@ the book [Getting Things Done (GTD)](https://www.amazon.com/Getting-Things-Done/
 your life, both personal and professional, and how to build tools for productivity that will last [^ref1].
 
 Throughout the class and our reading of that book, I was gratified to learn that a lot of my systems
-for productivity are exactly what he suggests. I'm not saying this to be full of myself; if/when you
+for productivity are exactly what he suggests. I'm not saying this to be full of myself; if you
 read it, you will hopefully find some of your organizational tools formally defined there too.
 
 My guide to productivity, at a high level, is:
@@ -33,24 +33,23 @@ on your calendar, and then if they take longer, extend the time you took on
 your calendar event. Then, look back on how much time something took you to
 inform how much time you're going to spend on your next task.
 
-This is what I mean by **learning yourself**. If you can increase your self-
-awareness of your productivity, you can figure out what's going well and
-what you need to change (which will hopefully help you out!).
+This is what I mean by **learning yourself**. If you can increase your self-awareness 
+of your productivity, you can figure out what's going well and what you need to change.
+This will help you a lot!
 
 ## Systems
 
 Systems are those structures and tools which you **trust** to organize **stuff**. Trust is crucial
 here: if you don't trust that, for instance, your notes app is going to save, how do you
 expect to ever be productive? Or, if you don't trust that your calendar is an accurate
-reflection of your time, you're going to constantly be fiddling with it and questioning it.
-**Stuff** is, well, stuff [^ref2]. Maybe it's an assignment you need to do.
-Maybe it's an appointment. Maybe it's a meetup with a friend. Maybe you need to take out the trash.
-Whatever it is, you'll need a place to put and remember it so that you do it.
+reflection of your time, why use it at all? **Stuff** is, well, stuff.
+Maybe it's an assignment you need to do. Maybe it's an appointment. Maybe it's a 
+meetup with a friend. Whatever it is, you'll need a place to put and remember it so that you do it.
 
 Before I continue, here are some decent apps and methods which you can use:
 - Your phone or computer's [notes app](https://apps.apple.com/us/app/notes/id1110145109) (this is what I use: it's simple and free!)
 - Your phone or computer's [reminders app](https://apps.apple.com/us/app/reminders/id1108187841)
-- Your phone or computer's [calendar app](https://apps.apple.com/us/app/calendar/id1108185179), or [Google calendars](https://calendar.google.com/calendar/u/0/r) [^ref3]
+- Your phone or computer's [calendar app](https://apps.apple.com/us/app/calendar/id1108185179), or [Google calendars](https://calendar.google.com/calendar/u/0/r) [^ref2]
 - The increasingly popular [Obsidian](https://obsidian.md)
 - Good old pen and paper (surprisingly effective and **not** outdated as we may think!)
 
@@ -72,12 +71,11 @@ Often times, I don't put my long term projects in my notes and instead in my cal
 an hour block with an alert to take a swing at it. I don't expect to get it done, but I'm
 setting myself up to spend a bit of time every day on things.
 
-An old professor and friend used to say: it's the **aggregate of marginal gains** [^ref4].
+An old professor and friend used to say: it's the **aggregate of marginal gains** [^ref3].
 If you can just put in a small amount of time each day to "chip away" at a larger project,
 it will eventually become much bigger and much less scary to deal with.
 
-One other system beyond a TODO list like I've said above is a **calendar**. It surprises
-me how many people make it through life without using calendars. Again, do what works
+One other system beyond a TODO list like I've said above is a **calendar**. Again, do what works
 for you, but I think to some degree if you're trying toward higher levels of productivity,
 you need a way to manage your time.
 
@@ -116,51 +114,47 @@ their room once every few years. Keep on top of it! The less distractions you le
 build up and the less that's in the back of your mind of what's around you, the
 less you have to worry about. It's the same with your organization and productivity.
 Don't let it slip, build up, and then you're stressed because you have a million other
-things to do but you also need to clean whatever it is; do a little bit when you can [^ref5].
+things to do but you also need to clean whatever it is; do a little bit when you can.
+It adds up.
 
 Planning your days and your tasks is time well spent. Take 1-3 hours every weekend to 
-reorganize your priorities [^ref6], or spend 5 minutes every night before you go to 
+reorganize your priorities [^ref4], or spend 5 minutes every night before you go to 
 sleep reorganizing. At the end of a day, I find it productive to spend those
 five minutes and see what I can knock off my TODO list from the day
 or add things that I'm thinking about. Just make sure you don't turn your 
 planning into procrastination.
 
 Often times this is unavoidable in life, but it feels like we're always reacting
-to things. People *will* drift in and out of your life at unexpected times, and so
-will work (although it will also be *very* expected). In my eyes, the less you can
-react to things, the more you get done. And once you get things done, rest assured
-that *something* is going to come up; and you'll have the freedom and bandwidth to 
-deal with it.
+to things. People will drift in and out of your life at unexpected times, and so
+will work-related things. In my eyes, the less you can react to things, the more
+you get done. Once you get things done, rest assured that *something* is going to
+come up; and you'll have the freedom and bandwidth to deal with it.
 
 ## Buyer beware
 
 Despite all that I've said here, don't enter the **productivity trap**. The productivity
 trap is the idea that you have to be productive 100% of the time; you don't *have* to,
-and in most cases, you *literally can't be* [^ref7]. Sure, if you're pushing toward something great
+and in most cases, you *literally can't be* [^ref5]. Sure, if you're pushing toward something great
 you can make sacrifices, but otherwise, say no (see the next section).
 
 Similar to this is the **self-improvement trap**: you're always buying things and just
 waiting for that one thing that's going to change and fix your whole life (no thanks to our
-modern consumerist culture). Self-improvement implies that you're not valuing yourself already
-and not believing in your ability; believe in yourself and how far you've made it, and then
-make healthy improvements on top of that.
+modern consumerist culture). In reality, buying things probably won't make you that much
+happier or fix your whole life. The self-improvement trap implies that you're not valuing 
+yourself already and not believing in your ability; believe in yourself and how far you've
+made it, and then make healthy improvements on top of that.
 
 
 [^ref1]: This book is pretty outdated by now. I think we read the 2001 version, or maybe the 2015
-one, but either way, there are references to filing cabinets and other "office" related things. Not
-to say we don't have filing cabinets or offices anymore, but it's much different with digital and
-remote work being prevalent. However, most of the systems David Allen mentions can be easily applied to the modern day.
+one. Either way, there are some dated references. The good news is that most of the systems David Allen 
+mentions can be easily applied to the modern day and the "digital world."
 
-[^ref2]: One of the worst sentences I have ever written. Sorry not sorry! :)
+[^ref2]: ...which can sync with your regular calendars, by the way. Your work calendars
+which are probably on Outlook, which can also do this. Get everything into one place, it helps.
 
-[^ref3]: ...which can sync with your regular calendars, by the way. Your work calendars
-which are probably on Outlook can also do this. Get everything into one place, it helps.
-
-[^ref4]: I think this is originally from [Atomic Habits](https://jamesclear.com/atomic-habits), which is a great book, but it 
+[^ref3]: I think this is originally from [Atomic Habits](https://jamesclear.com/atomic-habits), which is a great book, but it 
 looks like author James Clear also posted an [explanation here](https://jamesclear.com/wp-content/uploads/2016/08/ABriefGuidetoProcessImprovement-2.pdf).
 
-[^ref5]: It's the aggregate of marginal gains, again!
+[^ref4]: I think GTD suggested entire days, but do what works for you.
 
-[^ref6]: I think GTD suggested entire days, but do what works for you.
-
-[^ref7]: I should take my own advice sometimes. :)
+[^ref5]: I should take my own advice sometimes. :)

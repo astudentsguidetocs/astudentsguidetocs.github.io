@@ -17,7 +17,9 @@ I'm open to it all, and I'm confident that I can work with people. I'm going
 to fail and I'm going to make mistakes, but that's all part of the ride.
 
 I hope you learned a thing or two reading this. Check out [my website](https://ezrichards.github.io)
-if you want to get in touch.
+if you want to get in touch. If there's anything you disagree with or would
+like me to add, open a GitHub issue or get in touch somehow and I'd be open to
+hearing your thoughts!
 
 Thanks for listening.
 

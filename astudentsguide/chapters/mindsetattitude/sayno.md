@@ -105,11 +105,14 @@ Think about the big things: what do I hope to accomplish over the next few month
 How does this relate to where I truly want to be in life? How does this relate to what I
 truly want to do?
 
-..maybe equally if not more importantly, **think about the small things** too. It astounds me how many 
+Equally importantly, **think about the small things** too. It astounds me how many 
 people ignore, for instance, time to eat or sleep in their schedule. They just don't care or pretend 
-it doesn't matter. IT DOES! These are the foundations that will allow you to do things to begin with.
-You don't have to schedule friend-time, but think about having open time where you can spontaneously
+it doesn't matter. **It does!** These are the foundations that will allow you to do things to begin with.
+You don't have to schedule time for friends, but think about having open time where you can spontaneously
 do things for you *or* go and see friends.
+
+> Nothing changes if nothing changes. If you always do what you always did, you'll
+always get what you always got. No matter what it is. [^ref3]
 
 ## A fun story
 
@@ -125,3 +128,6 @@ we need to build some super pressurized walls that won't leak out the gas.
 [^ref2]: I won't talk about it too much in this section, but this is an
 absolute [context-switching](https://asana.com/resources/context-switching) and
 [attention residue](https://www.uwb.edu/business/faculty/sophie-leroy/attention-residue#:~:text=“Attention%20residue%20easily%20occurs%20when,rush%20to%20get%20it%20done.) nightmare.
+
+[^ref3]: Miscellaneous and aggregated quotes, partially from a silly little
+motivational YouTube video I watched, but genuinely life changing advice.

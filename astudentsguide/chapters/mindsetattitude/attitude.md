@@ -18,18 +18,37 @@ I know are now studying neuroscience and psychology, and I'm sure they're going 
 places in their careers. But whether or not they wanted to commit their life to the
 ups and downs of coding is a different question, and one they probably answered well. 
 
-If I'm ever asked for advice by high schoolers or undecided majors on
+When I'm asked for advice by high schoolers or undecided majors on
 going into CS, I tell them it can be great, but I make it abundantly clear what 
-they're getting into and that they'll need the right attitude, mindset, and a *lot* of patience.
+they're getting into. I'll tell them how they need the right attitude, mindset,
+and a *lot* of patience.
 
 ## Empathy
 
+I used to have the line "empathy over genius" plastered all over my website. While this
+may have been a little bit extreme, the point I was trying to make was that if you can
+understand and work with people, the genius relating to the code isn't the important part.
+
+Empathy is defined as: *the ability to understand and share the feelings of another.*
+In this context, I am using empathy by definition but also adding ideas of soft skills
+and compassion.
+
 This is the hardest thing to learn for computer scientists (or anyone, for that matter).
-We're taught and wired to systemize, rather than empathize. We solve problems, and
+We're taught and wired to systemize rather than empathize. We solve problems, and
 problems with people are usually much harder, so we would rather solve those problems
 with machines.
 
-<!-- Empathy Over Genius: Engineers are better at “systemizing” than empathizing, and this is inherently learned., but you can practice -->
+A lot of people say you can't learn soft skills and that many come innately. Whether
+or not this is true, I truly believe you can learn a lot of soft skills with a lot
+of practice. The results may not be immediate, but you will get better over many years.
+
+Start by asking someone how they're doing, and truly listen. Notice how their face
+changes in relation to new information. Did you say something funny? Did you say
+something hurtful? Notice these things and reflect on them.
+
+I'm sure there are plenty of other guides and books and people in the world who could
+help with this. But just stay curious about yourself and others, and aim to care
+about others. It goes a long way.
 
 ## Remember where you came from
 
@@ -37,14 +56,15 @@ So many computer scientists I know are so humble and modest that I questioned ev
 writing this section. But you're bound to get a few big egos every now and then.
 Whether it's because they invented some great technology or startup or maybe they
 make three figures more than you, these people are sometimes not great to work with.
+Sometimes they are, it depends.
 
-Try to stay grounded. Remember when you could barely write a line of code, and remember
-those people who took you under their wing and showed you the ropes. I think this is
-especially important so that we can bring new people and new ideas into the field. It
-rarely ever hurts to be humble [^ref1].
+So, here's my two cents on being humble: Try to stay grounded. Remember when you could
+barely write a line of code, and remember those people who took you under their wing 
+and showed you the ropes. I think this is especially important so that we can bring 
+new people and new ideas into the field. It rarely ever hurts to be humble.
 
 You're probably better than a lot of people in some ways. And a lot worse in others.
-And equivalent in others. This is just life. You might have a lot to say about one
+And equivalent in others. That's just life. You might have a lot to say about one
 thing, but on another topic, you might just take the backseat and let the expert explain.
 
 ## Perseverance
@@ -64,22 +84,17 @@ through the hard things and be patient as you develop something great over time.
 In contrast, *fixed mindset* is a learner’s belief that their intelligence is a fixed, immutable trait.
 \- [Stanford/Carol Dweck](https://teachingcommons.stanford.edu/teaching-guides/foundations-course-design/learning-activities/growth-mindset-and-enhanced-learning#:~:text=Growth%20mindset%2C%20simply%20stated%2C%20is,is%20a%20fixed%2C%20immutable%20trait.)
 
-Again, I think growth mindset is something you've probably heard of by now
-and is universal across all professions. But if not, there it is! Your
+I think growth mindset is also something you've probably heard of by now
+and is universal across all professions. But if not, read up! Your
 intelligence is **not** fixed. Your beliefs aren't fixed either. You
-can grow and change - and that's the beauty of it.
+can grow and change, and that's the beauty of life.
 
 There will be things you don't know. Always. Forever. And you have to
 believe that you have the ability to learn it, even when it seems like
 rocket science. Start small, put in the time, and you'll get there.
 
-Additionally, while this may be a more cynical view of growth: adapt 
-before you're left behind; or even better, keep an open mind
-toward new people, new teams, and new technologies. CS as a field
-always moves forward quickly, whether it's a groundbreaking discovery
-like generative AI or a new JavaScript framework.
-
-
-[^ref1]: This is crazy, but sometimes I think people can be *too* humble. Nothing
-wrong with smiling and accepting your award, but if you have trouble taking the award
-in the first place, that's a different story.
+Perhaps a more cynical view of growth: adapt before you're left behind!
+Or, even better, keep an open mind toward new people, new teams, and new
+technologies. CS as a field always moves forward quickly, whether it's a 
+groundbreaking discovery like generative AI or a new JavaScript framework.
+A growth mindset will help you drive forward into the unknown.
