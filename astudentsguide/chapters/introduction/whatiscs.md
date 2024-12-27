@@ -14,7 +14,7 @@ towards it.
 
 There's no precise formula, mathematical proof, or scary AI replacement for problem solving (thank goodness, 
 or I would be out of a job) nor is there one for working with real people and real teams. Nor is there one 
-for making good decisions [^ref1].
+for making good decisions [^ref1]. Real people and real teams do these things.
 
 ## What is software engineering?
 
@@ -34,9 +34,9 @@ of computer science, but as mentioned, it's not **all** of computer science. A l
 people in higher education will quickly argue that a degree in computer science is far better than an online 
 bootcamp or course focused on *just* coding. If you go out into industry, you will see and hear about
 many people who dropped out or had online training and are doing just fine. I have nothing against 
-online courses and have done a few myself, but I think the academic idea is sound. Understanding 
+online courses and have done a few myself, but I can see the academic argument too. Understanding 
 the full picture of computer science will help you be a better software engineer, which is the main 
-job outcome from a computer science degree [^ref2] [^ref3].
+job outcome from a computer science degree [^ref2].
 
 ## What *isn't* software engineering?
 
@@ -44,7 +44,7 @@ I might be too much of an idealist, but I don't think software engineering is ab
 It shouldn't be. I'm always pretty grossed out and disappointed by the people looking at 
 [levels.fyi](https://www.levels.fyi) comparisons of which company is going to give them $900k a
 year and work them into the ground; or the relatively newfound [ghost software engineers](https://www.businessinsider.com/tech-companies-ghost-engineers-stanford-underperformers-coding-2024-11), 
-who work multiple remote jobs and get paid more for doing less [^ref4].
+who work multiple remote jobs and get paid more for doing less [^ref3].
 
 Yes, the paycheck is nice. Yes, it can positively change your quality of life. But if you're doing 
 it only for that reason, I think you will be left disappointed and frustrated.
@@ -62,8 +62,7 @@ you're not on board with that contract, it's going to be a rough ride.
 we needn't worry about that day until it arrives, *if it arrives at all*.
 
 [^ref2]: Not saying you have to go into software engineering. A CS degree opens up many other great opportunities.
-
-[^ref3]: Even if you come from an online bootcamp or course, knowing how to code is the main thing you need to learn.
+Additionally, even if you come from an online bootcamp or course, knowing how to code is the main thing you need to learn.
 As long as you keep an open mind, you're going to do great!
 
-[^ref4]: This is a relatively new and disputed theory from Stanford, but I am aware of people who have already done this at the internship level in college.
+[^ref3]: This is a relatively new and disputed theory from Stanford, but I am aware of people who have already done this at the internship level in college.
