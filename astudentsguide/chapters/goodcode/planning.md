@@ -39,7 +39,7 @@ be used and test it a lot.
 
 Often times, when I plan: *the code writes itself*. I find people's use of
 [GitHub Copilot](https://github.com/features/copilot) pretty funny, as normally people
-don't comment code that well. But when you're trying to tell the genAI what
+don't comment code that well. But when you're trying to tell the AI what
 you're going for, you tend to explain yourself a little better and more clearly
 until it gets the right code that you're looking for. It's the same idea:
 if you outline your code, you (or AI) can write it pretty quickly. I'll have
@@ -48,10 +48,10 @@ an entire section on commenting coming right up.
 ## Gallery
 
 ![whiteboard1](../../assets/whiteboard1.png)
-*A whiteboard plan I worked on with my research advisor.*
+*A preliminary plan I worked on with my research advisor on the whiteboard.*
 
 ![whiteboard2](../../assets/whiteboard2.jpg)
-*A whiteboard brainstorm of the upcoming tasks for the OreCart project.*
+*A whiteboard brainstorm of upcoming tasks for the OreCart project.*
 
 
 [^ref1]: Don't get me started on pointing.

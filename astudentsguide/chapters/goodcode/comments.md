@@ -2,18 +2,18 @@
 
 Recently I was in a coding interview with a "big tech" company.
 I had stumbled through the actual coding part and found a decent
-recursive solution and was happy with myself, and then I got a random
-question from the interviewer: "What do you think about commenting?
-What is your policy on commenting code"
+recursive solution and was happy with myself, and then I got an
+unexpected question from the interviewer: "What do you think about
+commenting? What is your policy on commenting code"
 
 I made up some rushed answer about how I like to comment and try
 to comment everything, but also there's a balance in commenting
-and if the code is self explanatory it's not necessary.
-
-Almost immediately after, he spoke for 2 minutes on how commenting is 
-the worst (or so it felt like, as I nodded along sadly) and this is
-something they would watch out for and work on at the company and how
-you should be writing the most glorious code that does not need commenting.
+and if the code is self explanatory it's not necessary. Almost 
+immediately after, he spoke for 2 minutes on how commenting is 
+the worst (I nodded along sadly) and this is something they would
+watch out for and work on at the company. He explained that you 
+should be writing the good code that is meaningful and doesn't
+need comments to begin with.
 
 Further, at one of my internships, my boss was actually adamant that
 we shouldn't be commenting code (to my coworkers' delight!) and **definitely**
@@ -27,11 +27,11 @@ What's the deal with commenting?
 
 ## It's a balance
 
-I greatly respect my old boss and also that guy in the interview, but
+I greatly respect my old boss and that guy in the interview, but
 I would politely disagree with them. Like all things in life,
 it's a balance!
 
-Yes, I think the popular and rising argument that the code should 
+Yes, I think the popular argument that the code should 
 suffice itself **is true**. Don't go around trying to one-line things
 into oblivion for the sake of "efficiency." If it doesn't make any sense
 to look at at-a-glance, then you've just wasted everybody's time with regard
@@ -42,7 +42,7 @@ important business logic that makes no sense and have to rework it or try to
 understand it. Inevitably, if you're doing complex and useful things, I would
 imagine you'll have some code that needs commenting or documenting.
 
-And, like in the last section, if there are architectural/planning decisions,
+Like in the last section, if there are architectural/planning decisions,
 they definitely should be commented. Or, another scary idea, we could
 *write documentation* and put it there. 😱
 
@@ -51,5 +51,6 @@ but ultimately I think as long as you can communicate your design and
 thought process whether it's through commented or uncommented code, you
 can't go wrong. It's just the necessity to be *willing* to communicate.
 
+
 [^ref1]: In that internship, I actually stubbornly wrote some code
-that contained comments. Wonder if they deleted it yet.
+that contained comments. I wonder if they deleted it yet.
