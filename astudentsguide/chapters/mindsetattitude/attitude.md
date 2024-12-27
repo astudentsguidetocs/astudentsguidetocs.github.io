@@ -16,14 +16,18 @@ be able to code, but never really enjoyed it. It's not to say those
 friends couldn't have learned the mindset and the field - some of these friends
 I know are now studying neuroscience and psychology, and I'm sure they're going to go great
 places in their careers. But whether or not they wanted to commit their life to the
-ups and downs of coding (see *What is computer science?*) is a different question,
-and one they probably answered well. 
+ups and downs of coding is a different question, and one they probably answered well. 
 
-If I'm ever asked for advice by high schoolers, undecided majors, or people alike on
-going into CS, I tell them it can be great, but I also make it abundantly clear what 
+If I'm ever asked for advice by high schoolers or undecided majors on
+going into CS, I tell them it can be great, but I make it abundantly clear what 
 they're getting into and that they'll need the right attitude, mindset, and a *lot* of patience.
 
 ## Empathy
+
+This is the hardest thing to learn for computer scientists (or anyone, for that matter).
+We're taught and wired to systemize, rather than empathize. We solve problems, and
+problems with people are usually much harder, so we would rather solve those problems
+with machines.
 
 <!-- Empathy Over Genius: Engineers are better at “systemizing” than empathizing, and this is inherently learned., but you can practice -->
 

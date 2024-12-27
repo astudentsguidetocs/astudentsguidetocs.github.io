@@ -65,7 +65,7 @@ exist. In an ideal world, your boss or friendly neighborhood senior engineer is 
 to hopefully catch things if they're a big issue.
 
 It's also important to consider the use case; one time I had written a quadruple-nested
-for loop in a research project, and to my surprise, my research advisor's reaction was
+for loop in a research project, and to my surprise, my advisor's reaction was
 that he didn't really care. Yes, it was a rather poor complexity, but the dataset we
 were working on was small enough to where the difference would be negligible.
 
