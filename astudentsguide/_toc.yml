@@ -7,7 +7,7 @@ parts:
   
   - caption: Introduction
     chapters:
-    - file: chapters/introduction/whatisswe
+    - file: chapters/introduction/whatiscs
     - file: chapters/introduction/buildingblocks
     - file: chapters/introduction/agoodscientist
 

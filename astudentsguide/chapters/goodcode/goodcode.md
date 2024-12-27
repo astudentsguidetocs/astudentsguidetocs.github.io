@@ -35,7 +35,12 @@ print(sum(lst)) # better!
 **Writing good code is about communicating well**. If other people can
 understand it, you're doing the right things. This doesn't just mean what
 I've said above; it's everything that comes with it: comments, variable names,
-sensible API design, et cetera.
+sensible API design, etc.
+
+<!-- see design patterns section for more  -->
+
+<!-- Why maintaining code sucks and how we can improve (refactoring guru); start with I learned to read code before writing it; pattern recognition and matching
+Section on reading code^^/maintaining code -->
 
 ## Good Decisions
 
