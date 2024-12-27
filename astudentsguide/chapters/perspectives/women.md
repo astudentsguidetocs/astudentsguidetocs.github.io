@@ -12,7 +12,7 @@ Demographics make things especially hard, when most women
 in CS will be surrounded by a male majority most of the time.
 
 I really began to understand the experience women have in CS
-after reading the book [Brotopia](https://en.wikipedia.org/wiki/Brotopia) \[[Amazon](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534)],
+after reading the book [Brotopia](https://en.wikipedia.org/wiki/Brotopia),
 which I would wholeheartedly recommend for **every** man in CS (women, too,
 although you may unfortunately be familiar with what's discussed).
 
@@ -30,7 +30,7 @@ obviously), which is endlessly tiring.
 
 In *Brotopia*, Emily Chang describes real Silicon Valley scenarios which sound like they're 
 straight from [The Office](https://en.wikipedia.org/wiki/The_Office_(American_TV_series)) (e.g.
-hitting on people, making inappropriate jokes, et cetera). After reading that, I texted a friend 
+hitting on people, making inappropriate jokes, etc). After reading that, I texted a friend 
 in CS, and said "no way this happens!" while describing the chapters. She said that it was normal.
 Every time I read something, I was more and more enlightened to every little thing women in CS must 
 go through on a regular basis. I kept on texting my friend. She was continuously unsurprised.
@@ -54,11 +54,11 @@ Unrelated to gender, I had a former coworker drop a few "jokes" that were border
 fascist and homophobic. I told him to stop and didn't associate myself with him anymore
 (I *should have* additionally said something to HR, but thought the shunning would be fine).
 
-**Call people out** if they're saying bad things. You don't want to work for or with those people.
+Call people out if they're saying bad things. You don't want to work for or with those people.
 
 **Actually listen**: I've been in group projects with a male-majority where the female in
 the group gets completely ignored. People didn't even acknowledge her. My best strength
-was telling group members **no**, listen to her. One time we had spent upwards of 12 hours 
+was telling group members "*no*, listen to her." One time we had spent upwards of 12 hours 
 banging our head on desks over a project and *she* held the last few answers but the group didn't 
 believe her. I told them to listen, and we finally and swiftly finished once the group actually listened.
 
@@ -66,7 +66,7 @@ believe her. I told them to listen, and we finally and swiftly finished once the
 in these environments, women can see your intentions pretty quickly. And, the sad thing is,
 often times having a partner doesn't even stop men in CS. One of my friends says she has
 referenced her partner of *many* years to a guy who was hitting on her, and he keeps on
-following her around and dropping hints that she looks nice. **Don't be that guy**.
+following her around and dropping hints that she looks nice. **Don't be that guy** [^ref2].
 
 **Don't stare**: I can't believe I'm giving this advice to a primarily adult audience,
 but don't stare. You know what I mean. I once even had a friend say she was considering
@@ -75,3 +75,6 @@ dressing more like guys. That's *heartbreaking*.
 
 [^ref1]: I have genuinely heard of women who have been asked out *at least*
 four times a term. Do you understand how exhausting that must be?
+
+[^ref2]: Not to say you can't form genuine connections, but there's a line
+between normal and creepy/unwanted approaches.
