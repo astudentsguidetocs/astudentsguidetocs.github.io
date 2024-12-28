@@ -8,7 +8,7 @@ science that I think everyone in CS should know.
 Abstraction is one of the most useful ideas in computer science.
 Abstraction is the idea that we can "abstract" details away so
 that we can focus on the bigger picture. I always like this
-picture [^ref1] that we've showed forever in intro to CS @ Mines:
+picture [^ref1] that we've shown forever in the intro to CS course:
 
 ![abstraction](../../assets/abstraction.webp)
 
@@ -37,11 +37,10 @@ Software engineering students at Mines have forever been succumbed to making
 the board game Clue, but it's good practice.
 
 When you get out into industry, you probably won't be reinventing the wheel,
-but this expression goes beyond that.
-
-If there's a library/framework/API/whatever out there that does what you need,
-**use it!** Don't fall into the trap of remaking everything yourself because
-you think you'll do it better (I do this all of the time, and I shouldn't).
+but this expression goes beyond that. If there's a library/framework/API/whatever 
+out there that does what you need, **use it!** Don't fall into the trap of remaking 
+everything yourself because you think you'll do it better (I do this all of the time,
+and I shouldn't).
 
 Now, if the wheels are flat - maybe that library did good at one point but isn't
 headed in the right direction, or maybe it's not updated - knock yourself out,
@@ -88,8 +87,8 @@ you yourself need to do a ton of refactoring [^ref4].
 
 [^ref1]: Credit to [Ishan Bhanuka on Medium](https://medium.com/@twitu/a-dive-down-the-levels-of-abstraction-227c96c7933c)
 
-[^ref2]: I got a pretty bad grade in physics, that's about as clear as I can be.
+[^ref2]: I got a pretty bad grade in physics, that's about as clear as I can be. :)
 
-[^ref3]: Credit to Sumner for this quote. :)
+[^ref3]: I think Sumner or someone else at ACM originally gave this quote.
 
-[^ref4]: Hence why we have the lovely aforementioned [Refactoring Guru](https://refactoring.guru).
+[^ref4]: Hence why we have the aforementioned [Refactoring Guru](https://refactoring.guru).

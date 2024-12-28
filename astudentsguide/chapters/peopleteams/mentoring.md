@@ -47,12 +47,12 @@ you (hopefully for altruistic reasons rather than for something in return [^ref4
 
 **Next**, don't be afraid to ask questions. I learned the hard way that
 asking "can I ask a question" can be deeply frustrating depending on the mentor
-(in some cases, it's respectful as you're trying to see if the mentor is busy).
+(although, in some cases, it's respectful as you're trying to see if the mentor is busy).
 
 I personally would just go ahead and ask the question: you'll probably get some
 quick response and the mentor will continue to think about it and give you progressively
 better advice. However, the mentor is **not there to solve your problems**. They're there
-to **help you solve the problem**, and then maybe push you over the finish line if you can't.
+to help *you* to solve the problem, and then maybe push you over the finish line if you can't.
 
 Read your mentor as well. There *will* be times when they're in a bad mood and they will
 think they should still help you and then both parties will somehow get frustrated by the end of it.

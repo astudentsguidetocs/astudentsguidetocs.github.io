@@ -18,7 +18,12 @@ Most languages also have books like [Effective Java](https://www.amazon.com/Effe
 which explain patterns, paradigms, and other useful things that help you get to that
 next level of understanding [^ref1].
 
+## MVC Architecture
+
 <!-- describe MVC architecture/pattern? and maybe builder pattern as an example? -->
+
+## Builder Pattern
+
 
 [^ref1]: I asked for this book for my birthday one time. My parents were slightly confused 
 and perhaps a twinge disappointed. :)

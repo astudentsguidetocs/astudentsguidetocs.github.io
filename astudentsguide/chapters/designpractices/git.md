@@ -58,15 +58,20 @@ at it and do the best job you can with the issue; these are the small
 moments that add up to good software over time.
 
 **Give a brief overview of what happened**: In the description of a pull
-request, I like to type out some bullet points of what I did, because not
-only does it help keep me on track, but the person reviewing my code can
-look at a glance and see what they're looking for in the code.
+request, I like to type out some bullet points of what I did. It helps 
+to keep me on track but the person reviewing my code can also
+look the description at a glance and find what they're looking for in the code.
 
 **Don't delete early**. I am so often hitting "resolve conversation" early,
 which is a bad idea. Get verbal or textual confirmation that your reviewer
 understands why you're resolving the conversation, or else they will be
 looking for where their conversation went *and* still needing to talk to you
 about it.
+
+Follow through with your issues. **Talk to your stakeholders** or boss
+or whoever it is to truly understand what the ticket or issue is about.
+Don't just work in an isolated environment, see the full picture of
+where your fix or feature is in the entire system.
 
 
 [^ref1]: Please don't look at the commit messages for this repository.

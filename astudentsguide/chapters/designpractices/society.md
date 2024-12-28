@@ -11,7 +11,7 @@ It's important, especially in those situations, to be thinking about the full pi
 Are you making a product that's going to kill people and be used for mass destruction?
 Some of my friends view it as *defense* for the security of our country. Some left
 because they felt it was *offense*. I see both perspectives. The point I want to
-make here is that you should just be thinking about it and making your own decisions.
+make here is that you should be thinking about it and making your own decisions.
 
 If you make some sort of AI or algorithm, what implications does it have on
 people's jobs and livelihoods? Do you see the full picture of what you're designing,
@@ -19,11 +19,13 @@ or are you mindlessly working on a tiny part of the system?
 
 [Catalyst](https://www.amazon.com/Catalyst-Star-Wars-Rogue-Novel/dp/1101967005), a novel relating
 to [Star Wars: Rogue One](https://en.wikipedia.org/wiki/Rogue_One) is actually a pretty good
-example of this. The writer, James Luceno, accurately portrays how scientists and engineers on the Death
-Star project weren't aware of the bigger picture of what they were making. They just thought
+example of this. The writer, James Luceno, accurately portrays how scientists and engineers on the [Death Star](https://en.wikipedia.org/wiki/Death_Star) 
+project weren't aware of the bigger picture of what they were making. They just thought
 it was an important, tiny piece of science. But it was actually being used to make a weapon
-that could remove entire planets and basically commit genocide on insanely large amounts of people.
-Although this is fiction, there's some realism in this. It's analogous to [The Nazi engineers: reflections on technological ethics in hell](https://pubmed.ncbi.nlm.nih.gov/20844979/) by Eric Katz, which was taught in NHV, and spoke about how those engineers probably *did* know what they were doing and still did it anyways.
+that could remove entire planets and commit genocide on insanely large amounts of people.
+Although this is fiction, there's some realism in this. It's analogous to [The Nazi engineers: reflections on technological ethics in hell](https://pubmed.ncbi.nlm.nih.gov/20844979/) 
+by Eric Katz, which was taught in NHV, and spoke about how those engineers probably *did* 
+know what they were doing and still did it anyways.
 
 [The Social Dilemma](https://thesocialdilemma.com) is another great documentary involving
 engineering ethics, where former executives of big social media companies talk about their 
