@@ -1,6 +1,16 @@
 title: A Student's Guide to CS
 author: Ethan Richards
 copyright: "2024-2025"
+only_build_toc_files: true
+
+sphinx:
+  config:
+    language: en
+    html_extra_path: ['assets']
+
+latex:
+  latex_documents:
+    targetname: book.tex
 
 repository:
   url: https://github.com/astudentsguidetocs/astudentsguidetocs.github.io
