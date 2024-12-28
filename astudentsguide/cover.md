@@ -10,3 +10,5 @@ great software engineers in the field.
 The full book can be downloaded [as a PDF here](https://github.com/astudentsguidetocs/astudentsguidetocs.github.io/blob/main/AStudentsGuideToCS.pdf).
 
 **Copyright (c) 2024-2025 Ethan Richards**
+
+*Version: December 2025 Beta*

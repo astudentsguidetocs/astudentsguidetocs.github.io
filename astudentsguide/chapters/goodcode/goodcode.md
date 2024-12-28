@@ -18,7 +18,7 @@ Short code *can* be better, but if you're gunning for a one-line solution that
 is just going to be rewritten by someone else in the future, you should rethink it.
 
 This isn't to say that we can't be smart, e.g.:
-```
+```python
 lst = [1, 2, 3]
 count = 0
 for el in lst:
@@ -26,7 +26,7 @@ for el in lst:
 print(count)
 ```
 versus:
-```
+```python
 lst = [1, 2, 3]
 print(sum(lst)) # better!
 ```

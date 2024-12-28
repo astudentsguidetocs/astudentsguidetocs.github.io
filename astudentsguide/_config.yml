@@ -1,11 +1,6 @@
 title: A Student's Guide to CS
 author: Ethan Richards
-logo: logo.png
-
-# Define the name of the latex output file for PDF builds
-# latex:
-#   latex_documents:
-#     targetname: book.tex
+copyright: "2024-2025"
 
 repository:
   url: https://github.com/astudentsguidetocs/astudentsguidetocs.github.io

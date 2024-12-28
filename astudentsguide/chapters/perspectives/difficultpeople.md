@@ -19,6 +19,7 @@ you can both coexist together in the future.
 ## In their shoes
 
 Remember the classic kindergarten proverb: **put yourself in someone else's shoes**.
+Try to see things from someone else's perspective.
 
 Along these lines, I mentioned in a previous section that I do mindfulness meditations a lot.
 One insightful idea from a guided meditation I listened to is reflecting on
@@ -28,7 +29,7 @@ the following questions when you just *can't* understand the other person's pers
 as you do?
 
 Often, I find that these two questions alone can lead to a helpful resolution. Because, if
-you feel so strongly about one thing that you **can't** see any other perspective, **chances
+you feel so strongly about one thing that you *can't* see any other perspective, **chances
 are that you're missing something**.
 
 This isn't to say you can't or won't be annoyed by people on a daily basis. Maybe

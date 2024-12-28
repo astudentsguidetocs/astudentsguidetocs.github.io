@@ -3,7 +3,7 @@
 Integrating new people into teams always brings with it struggles:
 for both the team and the new people involved. I think sometimes
 not enough emphasis is put on integrating new people, which can
-make them lose interest in your work. 
+make them lose interest in your team and your project. 
 
 I've seen this in my experiences managing both officers and members
 of Mines ACM, and in our OreCart app. But also just at a level of
@@ -21,7 +21,7 @@ with anyone but themselves.
 I saw this as an opportunity: I would go up to them
 and talk to them. I'd ask what's going on in their classes and why
 they were interested in ACM. Or, if that wasn't the right vibe, I 
-would **act silly**. I'm not saying this in a manipulative
+would act silly. I'm not saying this in a manipulative
 way, but typically, cracking some awful jokes makes you seem a
 lot more human to others. There's obviously a balance so that you don't
 lose all of your credibility, but if you can make the newcomer smile,
@@ -44,7 +44,7 @@ them more closely.
 Another mistake was not communicating well. I think our "core team" communicated
 very well and I'm proud of that, but our newcomers were an afterthought. None
 of us had enough time to mentor [^ref4] and so we couldn't give the newcomers
-the time of day and the support that they needed. **Invest**, literally and
+the time of day and the support that they needed. *Invest*, literally and
 metaphorically, into your newcomers. They're the future of the product
 and your teams.
 
@@ -61,11 +61,11 @@ make everyone around you more productive and successful.
 **lot** of work and is a fragile organism; one step wrong or one person
 removed and the community starts to break down.
 
-[^ref2]: People who know me closely know that I'm scarily good at names.
+[^ref2]: People who know me closely know that I'm pretty good at names.
 I've had professors, TAs, and friends alike ask me for people's names so
 that they can go talk to them. I'm not even sure why, it just comes naturally 
-to me. You don't have to be the same, but find a way that works for you:
-**trust me**, it pays off. Some of my best friendships have come from simply
+to me. You don't have to be the same, but find a way that works for you.
+**Trust me**, it pays off. Some of my best relationships have come from simply
 just remembering a name and remembering a thing or two about the person.
 
 [^ref3]: Not enough help was probably the reason the project failed in the

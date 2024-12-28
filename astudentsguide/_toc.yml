@@ -44,10 +44,9 @@ parts:
 
   - caption: Design Principles
     chapters:
-    - file: chapters/designprinciples/acronyms
+    - file: chapters/designprinciples/tenants
     - file: chapters/designprinciples/patterns
     - file: chapters/designprinciples/apidesign
-    - file: chapters/designprinciples/tenants
 
   - caption: Design Practices
     chapters:
