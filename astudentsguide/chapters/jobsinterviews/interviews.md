@@ -1,13 +1,13 @@
 # Interviews
 
-Interviews are a two-way street: in an ideal world, it doesn't
-matter too much about how you perform in the interview, it's
+Interviews are a two-way street. In an ideal world, it doesn't
+matter too much about how you perform in the interview. Interviews
 for the interviewers to see if you would fit in their teams
 and cultures both skill and personality wise; you also should
 be doing the same.
 
-I've spoken with a lot of HR people and tech directors alike,
-and they all seem to agree: your attitude is more important than
+I've spoken with a lot of HR people and tech directors alike throughout
+hiring processes,and they all seem to agree: your attitude is more important than
 how good you are at coding. It's how you show the process of how 
 you solve the problem, react to adversity, and show your personality in general.
 
@@ -38,10 +38,10 @@ which is good for you to find out if you want to be there; and it shows good int
 to the interviewer.
 
 I would also note that some of these questions could have negative responses. We're
-not trying to goad bad answers out of people (and **rarely, if ever** will you hear
+not trying to goad bad answers out of people (and *rarely, if ever* will you hear
 any interviewer say *anything* bad about the company), but you do get honest answers.
 I've heard things like "I don't like working with technology X or edge case Y," which is
-really insightful to know going into the job. And if you don't get honest answers, or
+really insightful to know going into the job. ...and if you don't get honest answers, or
 answers feel forced and practiced in advance, do you really want to work there?
 
 Also, there is a slightly different set of questions I would ask for a non-technical
@@ -54,9 +54,7 @@ These questions show you're genuinely interested in working at the company
 and are trying to imagine what your life would be like there -- which are
 things you *should* be genuinely interested in.
 
-## In sum
-
-You could read a hundred interview books and blog posts, watch a hundred
+All in all, you could read a hundred interview books and blog posts, watch a hundred
 interview prep YouTube videos, do LeetCode problems until you're insane [^ref2],
 and it will *maybe probably somewhat mostly* prepare you, right?
 
@@ -73,7 +71,7 @@ nor did I feel a lot of interest.
 
 [^ref2]: In the rare event that a company is reading this: Please stop! LeetCode,
 HackerRank, CodeSignals, are such a joke. When am I ever going to implement Tetris
-at my job (assuming I don't work at Tetris 🙃)? When will I ever implement an RB-tree
+(true story - there's a similar question) at my job? When will I ever implement an RB-tree
 traversal? I think HackerRank and CodeSignal are beginning to do this, but measure me
-on what I actually will be doing - writing APIs, database queries, designing frontends, et
-cetera. There's a way to show applicants actually know how to code without gamifying it. 
+on what I actually will be doing - writing APIs, database queries, designing frontends, etc.
+There's a way to show applicants actually know how to code without gamifying it. 

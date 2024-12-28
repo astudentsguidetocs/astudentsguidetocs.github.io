@@ -1,7 +1,7 @@
 # Jobs
 
 People panic *a lot* about jobs, especially with the ongoing AI
-shenanigans. Perhaps the panic is warranted, but if you believe
+hype. Perhaps the panic is warranted, but if you believe
 in yourself and *your degree* (assuming you're pursuing one), you
 will be just fine.
 
@@ -17,36 +17,34 @@ Search for companies that excite you to work at and align with your
 values. Realistically, you may not always get these jobs, but you
 can work toward them and you should start with them first.
 
-> Happiness is in the doing, not the result. - Hector Garcia, *Ikigai:
-The Japanese Secret to a Long and Happy Life*
+> Happiness is in the doing, not the result. [^ref1]
 
 Your happiness should be in the every day things: what you're coding
 at your job, the overall big picture of what you're working on, and
 the people you're working with. Not your salary or the names on your resume.
-Find a company with a culture that suits you. Glassdoor is a decent
+Find a company with a culture that suits you. [Glassdoor](https://www.glassdoor.com/index.htm) is a good
 website for seeing what people generally think of working at the company
 you're looking at.
 
 One exception: **with internships**, go for quantity over quality. In
-a competitive and somewhat oversaturated market, experience anywhere
+a competitive and arguably oversaturated market, experience anywhere
 is better than no experience at all. Apply around and see what you can
 get, and then evaluate your options from there. In my internship search
-for Summer '24, I applied to **~140 companies**, didn't hear back from
+for Summer '24, I applied to around **140 companies**, didn't hear back from
 about **50 companies**, got rejected from over **80 companies**, and got
-**two offers** [^ref1], one of which was partially from networking.
+**two offers**, one of which was partially from networking [^ref2].
 
 **Network, network, network**. Companies want to hire good people, and
-if you know good people, they will hopefully know you and recommend you [^ref2].
-This trumps everything else; if you network, it's an immediate in at the company
+if you know good people, they will hopefully know you and recommend you [^ref3].
+This trumps everything else. If you network, it's an immediate "in" at the company
 which gets you past a lot of the initial interview shenanigans or through them
 even if you do poorly. 
 
 I know a lot of young people in similar situations to me think networking is 
 cheating or morally wrong; e.g. they want to get a job on their own merits.
 I can see that perspective, but ultimately you should take what you can get.
-A lot of people network [^ref3]; it's normal! And, assuming you get hired,
-you've already got a friend there who is looking out for you, which is a
-*great* feeling.
+A lot of people network [^ref4]; it's normal! Assuming you then get hired,
+you've already got a friend there who is looking out for you, which is good!
 
 ## Decisions
 
@@ -56,10 +54,10 @@ Thinking if the company culture is right for your personality is super tough.
 Figuring out if the company aligns with your career and personal ambitions is super 
 tough. But you're not locked in forever.
 
-Recently I heard about the [40-70 rule](https://www.42courses.com/blog/home/2019/12/10/colin-powells-40-70-rule) which states that "you need between 40 and 70 percent of
+The [40-70 rule](https://www.42courses.com/blog/home/2019/12/10/colin-powells-40-70-rule) states that "you need between 40 and 70 percent of
 the total information to make a decision." This is a great way of summing up my mantra
 above: decisions are hard, and often you don't have enough time to get all of the
-information, so do your best to get most of it - at least 40%, so you don't cut yourself
+information, so do your best to get most of it. At least 40%, so you don't cut yourself
 short, and at most 70%, because you probably don't have time to get more and it might
 make the decision harder.
 
@@ -67,11 +65,13 @@ Trust your instincts and intuition: if it doesn't work out, it doesn't work out,
 that's fine! There are plenty more fish in the sea. If it *does* work out, great!
 
 
-[^ref1]: I don't give these numbers to be depressing. In fact, a lot of friends
+[^ref1]: *Ikigai: The Japanese Secret to a Long and Happy Life* by Héctor García and Francesc Mirales [[Amazon](https://www.amazon.com/Ikigai-Japanese-Secret-Long-Happy/dp/0143130722)]
+
+[^ref2]: I don't give these numbers to be depressing. In fact, a lot of friends
 I send this to actually seem reassured by my plight. So I'm sharing it here too. :)
 
-[^ref2]: ..and get a sweet bonus if you're hired; it's a win-win-win for you,
+[^ref3]: ..and get a sweet bonus if you're hired; it's a win-win-win for you,
 the people who you networked with, and the company.
 
-[^ref3]: Not to say that something is OK because everyone does it; however,
+[^ref4]: Not to say that something is OK because everyone does it; however,
 networking is pretty standard.

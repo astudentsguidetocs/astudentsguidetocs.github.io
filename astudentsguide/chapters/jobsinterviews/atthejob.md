@@ -36,7 +36,7 @@ they will be the key to your next big project.
 
 
 [^ref1]: One of my coworkers was so stubborn about this and would not stop
-Venmo-ing me back, so I hid a $20 bill in his notebook that he found months later
+trying to pay me back, so I hid a $20 bill in his notebook that he found months later
 after the internship had ended. I win! *(If you're reading this, please don't
 pay me back.)*
 
