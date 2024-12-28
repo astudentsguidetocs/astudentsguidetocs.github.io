@@ -16,6 +16,10 @@ Can you actually hear and understand what you're saying as you're saying it,
 or are you just going on and on? If the latter, the person listening to you will
 probably think the same thing.
 
+Good communication is communication that your target audience understands
+via the medium you chose. Whether it's a text, email, or actually speaking
+out loud, if you can get the point across effectively, you did good.
+
 ## Know your audience
 
 Knowing your audience is vital to any sort of communication. Especially in
@@ -36,7 +40,7 @@ feel like there is *always* more to say, and anything left unsaid is a loss.
 But this creates one-sided conversation where it's me speaking *at* somebody,
 not with them.
 
-**Less is more**, and **silence is ok**. People process very differently, both
+**Less is more**, and **silence is okay**. People process very differently, both
 in style and in speed. If you're neck deep into an explanation and you're getting
 blank stares, slow down. See if you can boil your explanation down to just a few
 key ideas, and then if your audience wants more details, they will ask for it.
@@ -76,9 +80,3 @@ formal as well. If it's a coworker, you can be less formal because they probably
 just want you to cut to the chase. I think it's also a bit silly if you're super
 formal over email but then casual in person. Emails should genuinely reflect you
 and what you're trying to communicate.
-
-# In sum
-
-Good communication is communication that your target audience understands
-via the medium you chose. Whether it's a text, email, or actually speaking
-out loud, if you can get the point across effectively, you did good.
