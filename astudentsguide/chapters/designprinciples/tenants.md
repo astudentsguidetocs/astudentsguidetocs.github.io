@@ -120,4 +120,4 @@ this, let me know.
 
 [^ref5]: I think Sumner or someone else at ACM originally gave this quote.
 
-[^ref6]: Hence why we have the aforementioned [Refactoring Guru](https://refactoring.guru).
+[^ref6]: Hence why we have [Refactoring Guru](https://refactoring.guru).
