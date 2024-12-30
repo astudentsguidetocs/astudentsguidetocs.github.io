@@ -31,7 +31,7 @@ monitor for your eyes or chair for your back.
 
 It sounds silly, but people often underestimate how typing 
 can help productivity. Learning to type at a reasonable pace
-(~60 WPM is a good, average starter) is a great idea when 
+(~60 WPM is a good, average pace) is a great idea when 
 being a computer scientist. Your keyboard is where you're
 going to work, like, all of the time.
 
