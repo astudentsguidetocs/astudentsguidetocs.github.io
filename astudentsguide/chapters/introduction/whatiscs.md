@@ -23,11 +23,11 @@ says: "Software Engineering is the process of designing, developing, testing, an
 suspiciously close to the [Wikipedia definition](https://en.wikipedia.org/wiki/Software_engineering),
 but I think we're all in agreement here.
 
-Software engineering isn't *just* sitting and writing code for eye-straining amounts of time;
+Software engineering ("SWE") isn't *just* sitting and writing code for eye-straining amounts of time;
 it's about designing things that solve problems and serve real people's needs. It's about testing 
 to ensure safety in critical operations, and designing the software with longevity in mind.
 
-## What's the difference?
+## What's the difference between CS & SWE?
 
 Once upon a time, I thought there was no difference. I was quickly corrected. Software engineering is a subset 
 of computer science, but as mentioned, it's not **all** of computer science. A lot of professors and important 
@@ -40,8 +40,8 @@ job outcome from a computer science degree [^ref2].
 
 ## What *isn't* software engineering?
 
-I might be too much of an idealist, but I don't think software engineering is about the paycheck.
-It shouldn't be. I'm always pretty grossed out and disappointed by the people looking at 
+I don't think software engineering is about the paycheck. It shouldn't be. 
+I'm always pretty grossed out and disappointed by the people looking at 
 [levels.fyi](https://www.levels.fyi) comparisons of which company is going to give them $900k a
 year and work them into the ground; or the relatively newfound [ghost software engineers](https://www.businessinsider.com/tech-companies-ghost-engineers-stanford-underperformers-coding-2024-11), 
 who work multiple remote jobs and get paid more for doing less [^ref3].
