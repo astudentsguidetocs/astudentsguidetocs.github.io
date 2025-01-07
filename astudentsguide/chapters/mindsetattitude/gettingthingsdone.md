@@ -135,7 +135,7 @@ come up; and you'll have the freedom and bandwidth to deal with it.
 Despite all that I've said here, don't enter the **productivity trap**. The productivity
 trap is the idea that you have to be productive 100% of the time; you don't *have* to,
 and in most cases, you *literally can't be* [^ref5]. Sure, if you're pushing toward something great
-you can make sacrifices, but otherwise, say no (see the next section).
+you can make sacrifices, but otherwise, say no (see *Saying no*).
 
 Similar to this is the **self-improvement trap**: you're always buying things and just
 waiting for that one thing that's going to change and fix your whole life (no thanks to our

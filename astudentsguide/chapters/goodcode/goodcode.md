@@ -50,8 +50,8 @@ but you will get better and better at it with practice.
 
 Writing good code is good, but when you think on a larger scale of a good
 system, there are other considerations. In September 2024, two Google engineers, Paul 
-Christopher and Rob Warner, came and gave a tech talk to [Mines ACM](https://acm.mines.edu) [^ref4],
-had a really memorable quote:
+Christopher and Rob Warner, came and gave a tech talk to [Mines ACM](https://acm.mines.edu) [^ref4]
+which had a really memorable quote:
 
 > The things that are expensive to change are the things that are hardest and most important to get right. Building good systems means making good decisions, not writing good code.
 
