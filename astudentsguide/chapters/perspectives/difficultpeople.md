@@ -11,7 +11,7 @@ anything offensive or just being unpleasant to everyone).
 <!-- more difficult conversations in this section -->
 
 **Be empathetic**, as hard as it may be. If someone is being difficult to you personally,
-chances are that there's something going on in there life or some external factors pressuring
+chances are that there's something going on in their life or some external factors pressuring
 them to say unhelpful things. Or maybe they truly, genuinely aren't understanding your work
 or you as a person. Your job is to understand how and why they feel this way, and how
 you can both coexist together in the future.
