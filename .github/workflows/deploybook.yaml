@@ -31,24 +31,17 @@ jobs:
       run: |
         jupyter-book build astudentsguide
 
+    # DEBUG
+    - name: List build directory
+      run: ls -R astudentsguide/_build/html
+
     # Upload the book's HTML as an artifact
     - name: Upload artifact
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-pages-artifact@v4
       with:
-        name: "test"
         path: "astudentsguide/_build/html"
-        overwrite: true
-
-    # - name: Upload artifact
-    #   id: upload-artifact
-    #   uses: actions/upload-artifact@v4
-    #   with:
-    #     name: ${{ inputs.name }}
-    #     path: ${{ runner.temp }}/artifact.tar
-    #     retention-days: ${{ inputs.retention-days }}
-    #     if-no-files-found: error
 
     # Deploy the book's HTML to GitHub Pages
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v2
+      uses: actions/deploy-pages@v4
