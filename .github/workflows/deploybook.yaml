@@ -36,6 +36,7 @@ jobs:
       uses: actions/upload-pages-artifact@v4
       with:
         path: "astudentsguide/_build/html"
+        overwrite: true
 
     # Deploy the book's HTML to GitHub Pages
     - name: Deploy to GitHub Pages
