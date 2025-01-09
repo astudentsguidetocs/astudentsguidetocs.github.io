@@ -14,9 +14,9 @@ jobs:
       pages: write
       id-token: write
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout
+      uses: actions/checkout@v4
 
-    # Install dependencies
     - name: Set up Python 3.11
       uses: actions/setup-python@v4
       with:
@@ -26,22 +26,18 @@ jobs:
       run: |
         pip install -r astudentsguide/requirements.txt
 
-    # Build the book
     - name: Build the book
       run: |
         jupyter-book build astudentsguide
 
-    # DEBUG
-    - name: List build directory
-      run: ls -R astudentsguide/_build/html
-
-    # Upload the book's HTML as an artifact
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v4
       with:
         path: "astudentsguide/_build/html"
 
-    # Deploy the book's HTML to GitHub Pages
+    - name: Configure Pages
+      uses: actions/configure-pages@v5
+
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v4
