@@ -6,8 +6,8 @@ about feedback (which I believe was inspired by the book [^ref1]).
 
 If you're like me, you're probably wondering what all the fuss is about feedback.
 It's such a common word with perhaps even negative connotations; e.g. you try to give
-feedback to someone and they don't listen, or annoying survey on the internet
-are pestering you to give feedback about some service.
+feedback to someone and they don't listen, or some annoying survey on the internet
+is pestering you to give feedback about some service.
 
 The type of feedback we're talking about here is centered around personal growth
 and true, undivided attention which leads to *real* listening. This is the type 
